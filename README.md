@@ -16,3 +16,7 @@ The Digital First Aid Kit is a collaborative effort of EFF, Global Voices, Hivos
 * [Has your phone or laptop been taken from you?](DevicesSeized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
 * [Does your computer have malware?](Malware.md) (Is your computer acting suspicious?)
 * [Is your website under attack?](DDoSMitigation.md) (Is your site down? Has it been defaced?)
+
+See also:
+* [Glossary of terms](Glossary.md)
+* [Further Reading and Resources](Ressources.md)
