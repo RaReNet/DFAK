@@ -12,8 +12,9 @@ Where to start? If you believe that your computer has been compromised by malwar
 
 When you are seeking remote help from a third party please keep the following in mind:
 
+If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust. Also remember that the device you are using might be the subject of the attack. In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device. The guides referenced below in "Helpful Resources" and in the [Resources](Resources.md) section can also help. If possible, do not rely on unknown people you find online.
 
-If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations whom you feel you can trust. The guides referenced in the Resources section can also help. If possible, do not rely on unknown people you find online. Among the organizations you may reach out to include:
+Among the organizations you may reach out to include:
 
 * EFF
  * URL: [https://www.eff.org/](https://www.eff.org/)
@@ -44,9 +45,6 @@ If you think there is something wrong with one of your devices or accounts and y
  * URL: [https://www.opentechfund.org](https://www.opentechfund.org)
  * email: info@opentechfund.org
  * PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
-
-When seeking help, also remember that the device you are using might be the subject of the attack. In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
-
 
 ## Safer computing: What to do when you can't trust your device?
 
@@ -100,4 +98,4 @@ More information on the various technical aspects of trust can be found in the E
 ## Helpful resources
 
 * Security in a Box; selecting and maintaining secure passwords https://securityinabox.org/en/chapter_3_1
-* EFF's 'extensive' guidelines on how to create a password [insert link here when published]
+* EFF's guidelines on how to create a password [forthcoming]
