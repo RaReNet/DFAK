@@ -19,4 +19,4 @@ The Digital First Aid Kit is a collaborative effort of EFF, Global Voices, Hivos
 
 See also:
 * [Glossary of terms](Glossary.md)
-* [Further Reading and Resources](Ressources.md)
+* [Further Reading and Resources](Resources.md)
