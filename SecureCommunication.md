@@ -12,41 +12,39 @@ Where to start? If you believe that your computer has been compromised by malwar
 
 When you are seeking remote help from a third party please keep the following in mind:
 
+If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust. Also remember that the device you are using might be the subject of the attack. In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device. The guides referenced below in "Helpful Resources" and in the [Resources](Resources.md) section can also help. If possible, do not rely on unknown people you find online.
 
-1. If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations whom you feel you can trust. The guides referenced in the Resources section can also help. If possible, do not rely on unknown people you find online. Among the organizations you may reach out to include:
+Among the organizations you may reach out to include:
 
-    - EFF
-        - URL: https://www.eff.org/
-        - email: info@eff.org
-    - Front Line Defenders
-        - URL: http://www.frontlinedefenders.org/
-        - email: info@frontlinedefenders.org
-    - CPJ
-        - URL: https://www.cpj.org/
-        - email: info@cpj.org
-    - RSF
-        - URL: http://en.rsf.org/
-        - email: internet@rsf.org
-    - Access
-        - URL: https://www.accessnow.org/
-        - email: help@accessnow.org
-        - PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
-    - Digital Defenders Partnership
-        - URL: http://digitaldefenders.org/
-        - email: ddp@hivos.org
-    - Freedom House
-        - URL: http://freedomhouse.org/
-    - Internews
-        - URL: https://www.internews.org/
-    - IWPR
-        - URL: https://www.cyber-arabs.com/
-    - Open Technology Fund
-        - URL: https://www.opentechfund.org
-        - email: info@opentechfund.org
-        - PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
-
-2. When seeking help, also remember that the device you are using might be the subject of the attack. In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
-
+* EFF
+ * URL: [https://www.eff.org/](https://www.eff.org/)
+ * email: info@eff.org
+* Front Line Defenders
+ * URL: [http://www.frontlinedefenders.org/](http://www.frontlinedefenders.org/)
+ * email: info@frontlinedefenders.org
+* CPJ
+ * URL: [https://www.cpj.org/](https://www.cpj.org/)
+ * email: info@cpj.org
+* RSF
+ * URL: [http://en.rsf.org/](http://en.rsf.org/)
+ * email: internet@rsf.org
+* Access
+ * URL: [https://www.accessnow.org/](https://www.accessnow.org/)
+ * email: help@accessnow.org
+ * PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
+* Digital Defenders Partnership
+ * URL: [http://digitaldefenders.org/](http://digitaldefenders.org/)
+ * email: ddp@hivos.org
+* Freedom House
+ * URL: [http://freedomhouse.org/](http://freedomhouse.org/)
+* Internews
+ * URL: [https://www.internews.org/](https://www.internews.org/)
+* IWPR
+ * URL: [https://www.cyber-arabs.com/](https://www.cyber-arabs.com/)
+* Open Technology Fund
+ * URL: [https://www.opentechfund.org](https://www.opentechfund.org)
+ * email: info@opentechfund.org
+ * PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
 
 ## Safer computing: What to do when you can't trust your device?
 
@@ -64,15 +62,15 @@ If you believe your communications are being targeted, you must stop using the c
 
 The following important recommendations can help you to set up new channels of secure communication:
 
-    - After you've moved to a new device, create a new account using a new, secure password. Under no circumstances should you re-use an account or a password you have previously used. Find tips on creating a strong password here.
-    - Unless your threat model includes surveillance by very well resourced governments such as the USA, the UK, China or many governments listed in Google's [transparency report](http://www.google.com/transparencyreport/), using Google products may afford you a degree of protection. Google tools (especially using Google tools on Chrome) can significantly increase security in these situations, and gives you access to more secure email, chat and voice/video conferencing. This security only helps 'inside' Google, i.e. Gmail to Gmail or Gchat to Gchat. It offers less protection if anyone forwards this information outside of Google, or a different email address then Gmail is added to a Gchat discussion.
-    - An alternative to Google is [Riseup](https://help.riseup.net/), a volunteer group working to create democratic alternatives and practice self-determination by controlling our own secure means of communications. They offer services such as Gmal and Gchat. It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
-    - For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
-    - Pidgin (PC) and Adium (Mac) allow you to chat securely, with end-to-end encryption using OTR. Here is a [guide to installing Pidgin with OTR](https://securityinabox.org/en/pidgin_main).
-    - Jitsi can be used both for text chat as well as encrypted voice and video. Use [this guide to set it up](https://securityinabox.org/en/jitsi). You can [create an account for a secure voice/video call for free](https://ostel.co/).
-    - PGP (PC and Mac) allows you to set up end-to-end encryption for your email. Here is a [guide for using PGP with Thunderbird on your computer](https://securityinabox.org/en/thunderbird_main).
-    - [Tor Browser Bundle](https://www.torproject.org/download/download-easy.html.en) can be used to increase your security and privacy while visiting websites by bouncing your communications around a distributed network of relays run by volunteers all around the world.
-    - A number of secure tools come pre-installed in TAILS.
+* After you've moved to a new device, create a new account using a new, secure password. Under no circumstances should you re-use an account or a password you have previously used. Find tips on creating a strong password here.
+* Unless your threat model includes surveillance by very well resourced governments such as the USA, the UK, China or many governments listed in Google's [transparency report](http://www.google.com/transparencyreport/), using Google products may afford you a degree of protection. Google tools (especially using Google tools on Chrome) can significantly increase security in these situations, and gives you access to more secure email, chat and voice/video conferencing. This security only helps 'inside' Google, i.e. Gmail to Gmail or Gchat to Gchat. It offers less protection if anyone forwards this information outside of Google, or a different email address then Gmail is added to a Gchat discussion.
+* An alternative to Google is [Riseup](https://help.riseup.net/), a volunteer group working to create democratic alternatives and practice self-determination by controlling our own secure means of communications. They offer services such as Gmal and Gchat. It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
+* For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
+ * Pidgin (PC) and Adium (Mac) allow you to chat securely, with end-to-end encryption using OTR. Here is a [guide to installing Pidgin with OTR](https://securityinabox.org/en/pidgin_main).
+ * Jitsi can be used both for text chat as well as encrypted voice and video. Use [this guide to set it up](https://securityinabox.org/en/jitsi). You can [create an account for a secure voice/video call for free](https://ostel.co/).
+ * PGP (PC and Mac) allows you to set up end-to-end encryption for your email. Here is a [guide for using PGP with Thunderbird on your computer](https://securityinabox.org/en/thunderbird_main).
+ * [Tor Browser Bundle](https://www.torproject.org/download/download-easy.html.en) can be used to increase your security and privacy while visiting websites by bouncing your communications around a distributed network of relays run by volunteers all around the world.
+ * A number of secure tools come pre-installed in TAILS.
 
 
 ## Safer Communication on a smartphone
@@ -81,11 +79,11 @@ If you only have a smartphone, the following tools can protect your communicatio
 
 ### Android
 
-- [ChatSecure by The Guardian Project](https://guardianproject.info/apps/chatsecure/) integrates with desktop chat Clients like Jitsi and Pidgin (using Gchat or Jabber/XMPP) and adds end-to-end encryption and the ability to send encrypted files, photos and audio.
-- With [csipsimple](https://play.google.com/store/apps/details?id=com.csipsimple) you can also make secure calls (such as from [Ostel](https://ostel.co/)).
-- RedPhone (for voice) and TextSecure (for SMS) by [WhisperSystems](https://whispersystems.org) are good, but both parties must be on Android (with these tools installed) in order for these tools to work.
-- These apps are in the Google Play store, the [F-Droid repository](https://f-droid.org/repository/browse/) and available directly from the links above.
-- [Orbot](https://www.torproject.org/docs/android.html.en) by The Guardian Project and the Tor Project is an application that allows mobile phone users to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. Orbot brings the features and functionality of Tor to the Android mobile operating system.
+* [ChatSecure by The Guardian Project](https://guardianproject.info/apps/chatsecure/) integrates with desktop chat Clients like Jitsi and Pidgin (using Gchat or Jabber/XMPP) and adds end-to-end encryption and the ability to send encrypted files, photos and audio.
+* With [csipsimple](https://play.google.com/store/apps/details?id=com.csipsimple) you can also make secure calls (such as from [Ostel](https://ostel.co/)).
+* RedPhone (for voice) and TextSecure (for SMS) by [WhisperSystems](https://whispersystems.org) are good, but both parties must be on Android (with these tools installed) in order for these tools to work.
+* These apps are in the Google Play store, the [F-Droid repository](https://f-droid.org/repository/browse/) and available directly from the links above.
+* [Orbot](https://www.torproject.org/docs/android.html.en) by The Guardian Project and the Tor Project is an application that allows mobile phone users to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. Orbot brings the features and functionality of Tor to the Android mobile operating system.
 
 ### iPhone
 
@@ -99,5 +97,5 @@ More information on the various technical aspects of trust can be found in the E
 
 ## Helpful resources
 
-- Security in a Box; selecting and maintaining secure passwords https://securityinabox.org/en/chapter_3_1
-- EFF's 'extensive' guidelines on how to create a password [insert link here when published]
+* Security in a Box; selecting and maintaining secure passwords https://securityinabox.org/en/chapter_3_1
+* EFF's guidelines on how to create a password [forthcoming]

@@ -14,7 +14,7 @@
 ## Digital security guides
 
 - Security in a Box https://securityinabox.org
-- Surveillance Self-Defense https://ssd.eff.org/ [don't link this until EFF has updated it! --Eva]
+- Surveillance Self-Defense (Revision forthcoming)
 - Information security for journalists https://www.cpj.org/reports/2012/04/information-security.php
 - Communications Security: https://help.riseup.net/en/security
 - Short 'How To' Mobile Security Guide https://guardianproject.info/howto/
