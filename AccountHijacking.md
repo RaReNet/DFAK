@@ -41,10 +41,10 @@ If you suspect that someone else has access to your account, complete the follow
 
 Enable 2-factor authentication on this account, if it is available for the service you use. This is a process that requires you to confirm your identity on an alternate device (usually a mobile phone) when logging into an account. Google, Facebook, Twitter and WordPress support 2-factor authentication.
 
-- Google: https://support.google.com/accounts/answer/180744?hl=en
-- Facebook ('Login Approvals'): https://www.facebook.com/settings?tab=security
-- Twitter ('Login Verification'): https://support.twitter.com/articles/20170388-using-login-verification
-- WordPress: http://en.support.wordpress.com/security/two-step-authentication/
+- [Google](https://support.google.com/accounts/answer/180744?hl=en)
+- [Facebook](https://www.facebook.com/settings?tab=security) ('Login Approvals')
+- [Twitter](https://support.twitter.com/articles/20170388-using-login-verification) ('Login Verification')
+- [WordPress](http://en.support.wordpress.com/security/two-step-authentication/)
 
 It should be noted that enabling 2-factor authentication on Google will force you to use custom per-application passwords for applications like Thunderbird, Jitsi, Pidgin and any other application that isn't connecting via the web interface. These can be set up in the account settings on the web.
 
@@ -54,6 +54,6 @@ It is good to understand why your account was hijacked. Who do you think might b
 
 ## Helpful resources and links:
 
-Security in a Box: https://securityinabox.org/en/chapter_7_2
-Threat models and Surveillance Self Defense: https://ssd.eff.org/ (Surveillance Self Defense is currently in the process of being updated, expected Autumn 2014)
+* [Security in a Box](https://securityinabox.org/en/chapter_7_2)
+* [Threat models and Surveillance Self Defense](https://ssd.eff.org/) (Surveillance Self Defense is currently in the process of being updated, expected Autumn 2014)
 
