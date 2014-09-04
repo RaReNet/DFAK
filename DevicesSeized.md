@@ -21,10 +21,10 @@ Is your device lost? Has it been stolen or seized by a third party? In any of th
 
 ### What was on the device?
 
-- *Make an inventory* of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
+- **Make an inventory** of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
 - What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
 - Did you use encryption tools for email or chat (such as PGP and OTR)?
-- *What accounts does this device have access to?* This can be email, social media, chat, IM and banking accounts that the device can access, browsers that have saved passwords to account, cookies that show your internet browsing history, authentication tokens such as fingerprint on iPhone 5 and accounts that use the device for secondary authentication.
+- **What accounts does this device have access to?** This can be email, social media, chat, IM and banking accounts that the device can access, browsers that have saved passwords to account, cookies that show your internet browsing history, authentication tokens such as fingerprint on iPhone 5 and accounts that use the device for secondary authentication.
 - Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass
 
 ## First steps to mitigate the problem:
@@ -51,8 +51,8 @@ For more extensive threat modeling assistance see the Surveillance Self Defense 
 
 If you have lost contact with your device for an extended period of time and you feel there is a chance that something has been installed on it, please consider the following:
 
-- *Computer*: reinstall the OS from scratch and recover all documents from the last backup and scan all your documents and files with antivirus software. For more guidance on this, see cleaning up your device in the malware section. In some cases, reinstalling the OS might not be enough. Reinstalling BIOSes and firmwares from a trusted source might be required.
-- *Phones and tablets*: Depending on your level of risk and the circumstances under which your mobile phone or tablet was taken, it may be advisable to not use it again. If possible, migrate all of the data off of your phone or tables and purchase a new one. If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
+- **Computer**: reinstall the OS from scratch and recover all documents from the last backup and scan all your documents and files with antivirus software. For more guidance on this, see cleaning up your device in the malware section. In some cases, reinstalling the OS might not be enough. Reinstalling BIOSes and firmwares from a trusted source might be required.
+- **Phones and tablets**: Depending on your level of risk and the circumstances under which your mobile phone or tablet was taken, it may be advisable to not use it again. If possible, migrate all of the data off of your phone or tables and purchase a new one. If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
 
 ## Don't stop here! Important next steps:
 Whether your device is still lost or you have it back, complete the following steps:
@@ -74,6 +74,6 @@ If your device has been stolen or seized by a third party, it is good to underst
 
 ### Helpful resources
 
-Security in a Box: https://securityinabox.org/en/chapter_7_2
-Threat modeling, Surveillance Self Defense Guide: https://ssd.eff.org/risk/threats
+* [Security in a Box](https://securityinabox.org/en/chapter_7_2)
+* [Threat modeling, Surveillance Self Defense Guide](https://ssd.eff.org/risk/threats)
 
