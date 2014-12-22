@@ -1,1 +1,1 @@
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Комплект неотложной цифровой помощи [ЛИЦЕНЗИЯ CREATIVE COMMONS 4.0 «РАСПРОСТРАНЕНИЕ НА ТЕХ ЖЕ УСЛОВИЯХ - КОПИЛЕФТ»](http://creativecommons.org/licenses/by-sa/4.0/).
