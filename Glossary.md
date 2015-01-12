@@ -9,7 +9,7 @@
 - **Nameserver**: When a browser wants to find a website it will first contact a name server. This tells the browser to connect the domain name (Google.com) to it’s internet address / IP Address (74.125.228.69) via it’s DNS Record (above). By changing the DNS record at a name server, you can 'point' the browser to a different server.
     - Technically speaking the browser still checks with /etc/hosts before going to DNS, that's how one can block access to FB on their computer by routing facebook.com to another IP address. It is also useful for accessing some websites blocked through DNS blocks.
 - **Sleep**: The operating system shuts down the display, hard drives and remotely connected devices off but will continue providing enough power to the computer to start quickly. Unlike the Hibernate state, the content of the memory is not written to disk.
-- **SSL**: See explanation Transport Layer Encryption or Wikipedia
+- **SSL**: See definition of Transport Layer Encryption, or the clarification of terms on [Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security).
 - **SRV or Service record**: A Service record or SRV record is the record in the Domain Name System that defines the location, (the hostname and port number) of servers for specified services.
 - **Threat modeling**: a way to make a assessment of the threats you are facing, the origin from the threat and the assets you are trying to protect. The threat can vary depending on your location, what you do and who you are working with.
 - **Transport Layer Encryption**: are cryptographic protocols (Transport Layer Security  (TLS) and Secure Sockets Layer (SSL) designed to provide secure communication channels over the Internet.
