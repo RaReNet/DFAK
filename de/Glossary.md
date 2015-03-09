@@ -19,3 +19,9 @@
 - Webhoster: Der Server, auf dem Ihre Website und ihre Dateien/Datenbanken gespeichert werden.&nbsp;
 - Siehe auch: https://securityinabox.org/de/glossary&nbsp;
 
+## **Über das Digitale Erste-Hilfe-Set**
+
+Das Digitale Erste-Hilfe-Set ist ein gemeinsames Angebot von EFF, Global Voices, Hivos & the Digital Defenders Partnership, Front Line Defenders, Internews, Freedom House, Access, Qurium, CIRCL, IWPR, Open Technology Fund und einigen Sicherheitsexperten, die im Bereich der digitalen Sicherheit und Notfallhilfe arbeiten. Das Projekt befindet sich noch in Arbeit und wenn es Dinge gibt, die hinzugefügt werden sollten und wenn Sie Fragen oder Anmerkungen zu einem der Abschnitte haben sollten, dann begeben Sie sich bitte auf die Seite [Github](https://github.com/RaReNet/DFAK).
+
+Dieses Werk unterliegt den Lizenzbedingungen der [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
