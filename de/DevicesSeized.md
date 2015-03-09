@@ -80,3 +80,9 @@ Wenn Ihr Gerät gestohlen oder von einem Dritten beschlagnahmt wurde, ist es nü
 
 Security in a Box: [https://securityinabox.org/en/chapter\_7\_2](https://securityinabox.org/en/chapter_7_2) Gefahrenmodelle, Surveillance Self Defense Guide: [https://ssd.eff.org/risk/threats](https://ssd.eff.org/risk/threats)
 
+## **Über das Digitale Erste-Hilfe-Set**
+
+Das Digitale Erste-Hilfe-Set ist ein gemeinsames Angebot von EFF, Global Voices, Hivos & the Digital Defenders Partnership, Front Line Defenders, Internews, Freedom House, Access, Qurium, CIRCL, IWPR, Open Technology Fund und einigen Sicherheitsexperten, die im Bereich der digitalen Sicherheit und Notfallhilfe arbeiten. Das Projekt befindet sich noch in Arbeit und wenn es Dinge gibt, die hinzugefügt werden sollten und wenn Sie Fragen oder Anmerkungen zu einem der Abschnitte haben sollten, dann begeben Sie sich bitte auf die Seite [Github](https://github.com/RaReNet/DFAK).
+
+Dieses Werk unterliegt den Lizenzbedingungen der [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
