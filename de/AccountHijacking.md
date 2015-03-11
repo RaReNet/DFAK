@@ -10,11 +10,11 @@ Haben Sie Anmeldeprobleme beim Zugriff auf Ihre E-Mails, soziale Netzwerke oder 
 
 ## **Beginnen Sie mit der Beantwortung einiger einfacher Fragen:**
 
-- Mit welchem Dienst haben Sie Schwierigkeiten?
+- Mit welchem Online-Dienst haben Sie Schwierigkeiten?
 - Sind Sie der/die Einzige, der/die dieses Konto nutzt? Manchmal haben zahlreiche Menschen Zugang zu Gruppenseiten auf Facebook, Wordpress-Blogs oder E-Mail-Konten. Wenn mehrere Menschen Zugang zu diesem Konto haben, stellen Sie zunächst sicher, dass Ihre Freunde und Kollegen nicht die Zugangsdaten verändert haben.
 - Wie lauten der Benutzername und die URL des Kontos?
 - Haben Sie keinen Zugang zu Ihrem Konto?
-- Können Sie sehen, ob jemand anderes Ihr Konto nutzt?
+- Können Sie feststellen, ob jemand anderes Ihr Konto nutzt?
 - Wurden Sie alarmiert oder haben Freunde/Kontakte von Ihnen seltsame Mitteilungen von Ihnen erhalten?
 - Welche anderen Anhaltspunkte hinsichtlich des Problems sind Ihnen aufgefallen?
 
@@ -25,7 +25,7 @@ Haben Sie Anmeldeprobleme beim Zugriff auf Ihre E-Mails, soziale Netzwerke oder 
 Benutzen Sie einen anderen Computer – einen, den Sie für sicher und nicht kompromittiert halten. Dann führen Sie folgende Schritte durch:
 
 - Schritt 1: Verschicken Sie keine sensiblen Informationen mehr über dieses Konto, bis Sie die Situation besser verstehen.
-- Schritt 2: Überprüfen Sie wenn möglich das Verbindungs-Protokoll oder Konto-Aktivitäten (eine Funktion, die für Facebook, Gmail und andere E-Mail-Plattformen verfügbar ist). Überprüfen Sie, ob Ihr Konto zu einem Zeitpunkt genutzt wurde, zu dem Sie nicht online waren, oder ob auf Ihr Konto von einem unbekannten Standort oder einer ungewöhnlichen IP-Adresse zugegriffen wurde.
+- Schritt 2: Überprüfen Sie wenn möglich das Verbindungs-Protokoll oder Konto-Aktivitäten (eine Funktion, die für Facebook, Gmail und andere E-Mail-Plattformen verfügbar ist). Überprüfen Sie, ob Ihr Konto zu einem Zeitpunkt genutzt wurde, zu dem Sie nicht online waren, oder ob von einem unbekannten Standort oder einer ungewöhnlichen IP-Adresse  auf Ihr Konto zugegriffen wurde.
 - Schritt 3: Sehen Sie sich die Konto-Einstellungen an. Wurden sie geändert? Überprüfen Sie bei E-Mail-Konten die automatischen Weiterleitungen von E-Mails, mögliche Änderungen der E-Mail-Adresse oder Telefonnummer zum Zurücksetzen des Passworts, die Synchronisierung mit anderen Geräten einschließlich Telefone, Computer oder Tablets sowie Berechtigungen für Apps oder andere Konto-Berechtigungen.
 - Schritt 4: Ändern Sie die Passwörter für alle Online-Konten, die mit diesem Konto verknüpft sind. Wenn beispielsweise ein E-Mail-Konto die Adresse zum Zurücksetzen eines anderen Kontos ist, sollten Sie das Passwort für dieses Konto ändern
 - Schritt 5: Hören Sie an dieser Stelle nicht auf! Befolgen Sie die nachfolgenden wichtigen Schritte!
@@ -40,12 +40,12 @@ Wenn Sie den Verdacht haben, dass jemand anderes Zugang zu Ihrem Konto hat, füh
 
 - Schritt 1: Beantworten Sie für sich selbst folgende Fragen: Wer könnte Zugang zu Ihrem Konto haben (Freunde, Mitarbeiter, Partner, Kinder)? Welche Geräte (Computer, Smartphone, Tablet) haben Sie benutzt, um sich in Ihr Konto einzuloggen? An welchen Orten haben Sie sich in dieses Konto eingeloggt (Zuhause, Büro, Cybercafé, WLAN-Netzwerk)?
 - Schritt 2: Benutzen Sie das selbe Passwort auch für andere Konten? Falls ja, führen Sie diese Kontrollen ebenfalls bei diesen Konten durch. Geben Sie neue, jeweils unterschiedliche Passwörter für jedes individuelle Konto ein.
-- Schritt 3: Denken Sie darüber nach, wofür Sie dieses Konto nutzen. Enthält er sensible Informationen? Dazu können Ihr Adressbuch, Informationen über Ihren Aufenthaltsort oder der Inhalt Ihrer Mitteilungen gehören. Wenn Sie der Meinung sind, dass diese Informationen ein Risiko für Ihre Kontakte darstellt, informieren Sie sie darüber, dass Ihr Konto kompromittiert wurde.
+- Schritt 3: Denken Sie darüber nach, wofür Sie dieses Konto nutzen. Enthält es sensible Informationen? Dazu können Ihr Adressbuch, Informationen über Ihren Aufenthaltsort oder der Inhalt Ihrer Mitteilungen gehören. Wenn Sie der Meinung sind, dass diese Informationen ein Risiko für Ihre Kontakte darstellt, informieren Sie sie darüber, dass Ihr Konto kompromittiert wurde.
 - Schritt 4: Wiederholen Sie die Kontrolle des Verbindungs-Protokolls bzw. der Konto-Aktivitäten – mindestens einmal pro Woche einen Monat lang – um sicherzustellen, dass Ihr Konto keine ungewöhnlichen Aktivitäten mehr registriert. Sollte es weiterhin seltsame Aktivitäten aufweisen, lesen Sie bitte im Abschnitt „Schadprogramme" weiter.
 
 ## **Ergreifen Sie besondere Schutzmaßnahmen gegen Angreifer:**
 
-Aktivieren Sie Zwei-Faktor-Authentifizierung (*2-factor authentication*), falls dies bei dem von ihnen genutzen Service möglich ist. Dabei handelt es sich um einen Vorgang, der von Ihnen verlangt, Ihre Identität mit einem zusätzlichen Gerät (normalerweise einem Mobiltelefon) zu bestätigen, wenn Sie sich in Ihrem Konto einloggen möchten. Google, Facebook, Twitter und WordPress unterstützen die Zwei-Faktor-Authentifizierung.
+Aktivieren Sie Zwei-Faktor-Authentifizierung (*2-factor authentication*), falls dies bei dem von ihnen genutzen Service möglich ist. Beim einloggen wird Ihre Identität dann in Zukunft mit einem zusätzlichen Gerät (normalerweise einem Mobiltelefon) bestätigt. Google, Facebook, Twitter und WordPress unterstützen die Zwei-Faktor-Authentifizierung.
 
 - Google: https://support.google.com/accounts/answer/180744?hl=de&nbsp;
 - Facebook ('Login Approvals'): https://www.facebook.com/settings?tab=security&nbsp;
