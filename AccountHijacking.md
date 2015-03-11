@@ -20,7 +20,7 @@ Move to a different computer - one that you consider to be safe or uncompromised
 
 - Step 1: Stop using this account for the exchange of sensitive information until you better understand the situation.
 - Step 2: If possible, review the connection history/account activity (an available feature for Facebook, Gmail and other email platforms). Check to see if your account was used at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-- Step 3: Take a look at the account settings. Have they been changed? For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronization to different devices, including phones, computers or tablets, permissions to applications or other account permissions.
+- Step 3: Take a look at the account settings. Have they been changed? For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address or phone numbers, synchronization to different devices, including phones, computers or tablets, permissions to applications or other account permissions.
 - Step 4: Change the passwords for all your other online accounts that are linked to this one. For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account.
 - Step 5: Don't stop here! Follow the important next steps below
 
