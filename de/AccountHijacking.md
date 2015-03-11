@@ -1,47 +1,47 @@
 ## **1. Account-Diebstahl**
 
-## **Das Digitale Erste-Hilfe-Set**
+## **Der Digitale Erste-Hilfe-Kasten**
 
-Das Digitale Erste-Hilfe-Set will allen Internetnutzern eine erste Unterstützung bieten, die den häufigsten Arten digitaler Bedrohungen ausgesetzt sind. Das Set bietet eine Reihe von Instrumenten zur Selbstdiagnose für Bürger, Menschenrechtsaktivisten, Blogger, Aktivisten und Journalisten, die selbst mit Angriffen konfrontiert sind, sowie Leitlinien für digitale Notfallhelfer, um einem bedrohten Nutzer beizustehen.
+Der Digitale Erste-Hilfe-Kasten ist ein Hilfsmittel, dass sich an Menschen richtet, die den häufigsten Arten der digitalen Bedrohung ausgesetzt sind. Der Erste-Hilfe-Kasten bietet eine Reihe von Werkeugen zur Selbstdiagnose für Bürger, Menschenrechtsaktivisten, Blogger, Aktivisten und Journalisten, die selbst Ziel von Angriffen werden, sowie Leitlinien für digitale Notfallhelfer, um einen bedrohten Nutzer zu unterstützen.
 
 ## **Account-Diebstahl**
 
-Haben Sie Probleme beim Zugriff auf Ihren E-Mail-, Social-Media- oder Internet-Account? Gibt es auf einem Account Vorgänge, die Sie nicht nachvollziehen können? Es gibt zahlreiche Möglichkeiten, um dieses Problem zu lösen.
+Haben Sie Anmeldeprobleme beim Zugriff auf Ihren E-Mail-, Social-Media- oder Internet-Account? Gibt es auf einem Account Aktivitäten, die Sie nicht nachvollziehen können? Es gibt zahlreiche Möglichkeiten, um diesen Problemen zu begegnen.
 
 ## **Beginnen Sie mit der Beantwortung einiger einfacher Fragen:**
 
-- Mit welchem Dienst haben Sie Schwierigkeiten?&nbsp;
-- Sind Sie der/die Einzige, der/die diesen Account nutzt? Manchmal haben zahlreiche Menschen einen Zugang zu Gruppenseiten auf Facebook, Wordpress-Blogs oder E-Mail-Accounts. Wenn mehrere Menschen Zugang zu diesen Account haben, stellen Sie zunächst sicher, dass Ihre Freunde und Kollegen nicht die Zugangscodes verändert haben.&nbsp;
-- Wie lauten der Benutzername und die URL des Accounts?&nbsp;
-- Haben Sie keinen Zugang zu Ihrem Account?&nbsp;
-- Können Sie sehen, ob jemand anderes Ihren Account nutzt?&nbsp;
-- Wurden Sie alarmiert oder haben Freunde/Kontakte von Ihnen seltsame Mitteilungen von Ihnen erhalten?&nbsp;
-- Welche anderen Anhaltspunkte hinsichtlich des Problems sind Ihnen aufgefallen?&nbsp;
+- Mit welchem Dienst haben Sie Schwierigkeiten?
+- Sind Sie der/die Einzige, der/die diesen Account nutzt? Manchmal haben zahlreiche Menschen Zugang zu Gruppenseiten auf Facebook, Wordpress-Blogs oder E-Mail-Accounts. Wenn mehrere Menschen Zugang zu diesem Account haben, stellen Sie zunächst sicher, dass Ihre Freunde und Kollegen nicht die Zugangsdaten verändert haben.
+- Wie lauten der Benutzername und die URL des Accounts?
+- Haben Sie keinen Zugang zu Ihrem Account?
+- Können Sie sehen, ob jemand anderes Ihren Account nutzt?
+- Wurden Sie alarmiert oder haben Freunde/Kontakte von Ihnen seltsame Mitteilungen von Ihnen erhalten?
+- Welche anderen Anhaltspunkte hinsichtlich des Problems sind Ihnen aufgefallen?
 
 ## **Erste Schritte zur Lösung des Problems:**
 
 ### **Wenn Sie noch immer Zugang zu Ihrem Account haben:**
 
-Gehen Sie zu einem anderen Computer – einen, den Sie für sicher und nicht kompromittiert halten. Dann führen Sie folgende Schritte durch:
+Benutzen Sie einen anderen Computer – einen, den Sie für sicher und nicht kompromittiert halten. Dann führen Sie folgende Schritte durch:
 
-- Schritt 1: Hören Sie auf, diesen Account für den Austausch sensibler Informationen zu benutzen, bis Sie die Situation besser verstehen.&nbsp;
-- Schritt 2: Überprüfen Sie wenn möglich das Verbindungs-Protokoll / die Account-Aktivitäten (eine Funktion, die für Facebook, Gmail und andere E-Mail-Plattformern verfügbar ist). Überprüfen Sie, ob Ihr Account zu einem Zeitpunkt genutzt wurde, zu dem Sie nicht online waren, oder ob auf Ihren Account von einem unbekannten Standort oder einer fremden IP-Adresse zugegriffen wurde.&nbsp;
-- Schritt 3: Sehen Sie sich die Account-Einstellungen an. Wurden sie geändert? Überprüfen Sie bei E-Mail-Accounts die automatischen Weiterleitungen von E-Mails, mögliche Änderungen der Backup/Reset E-Mail-Adresse von Telefonnummern, die Synchronisierung mit anderen Geräten einschließlich Telefone, Computer oder Tablets oder Berechtigungen für Apps oder andere Account-Berechtigungen.&nbsp;
-- Schritt 4: Ändern Sie die Passwörter für alle Ihre Online-Accounts, die Sie mit diesem Account verknüpft haben. Wenn beispielsweise ein E-Mail-Account die Adresse zur Wiedererlangung eines anderen Accounts ist, sollten Sie das Passwort für diesen Account ändern.&nbsp;
-- Schritt 5: Hören Sie an dieser Stelle nicht auf! Befolgen Sie die nachfolgenden wichtigen Schritte!&nbsp;
+- Schritt 1: Verschicken Sie keine sensiblen Informationen mehr über dieses Konto, bis Sie die Situation besser verstehen.
+- Schritt 2: Überprüfen Sie wenn möglich das Verbindungs-Protokoll/die Konto-Aktivitäten (eine Funktion, die für Facebook, Gmail und andere E-Mail-Plattformen verfügbar ist). Überprüfen Sie, ob Ihr Konto zu einem Zeitpunkt genutzt wurde, zu dem Sie nicht online waren, oder ob auf Ihr Konto von einem unbekannten Standort oder einer ungewöhnlichen IP-Adresse zugegriffen wurde.
+- Schritt 3: Sehen Sie sich die Konto-Einstellungen an. Wurden sie geändert? Überprüfen Sie bei E-Mail-Konten die automatischen Weiterleitungen von E-Mails, mögliche Änderungen der E-Mail-Adresse oder Telefonnummer zum Zurücksetzen des Passworts, die Synchronisierung mit anderen Geräten einschließlich Telefone, Computer oder Tablets sowie Berechtigungen für Apps oder andere Konto-Berechtigungen.
+- Schritt 4: Ändern Sie die Passwörter für alle Online-Konten, die mit diesem Konto verknüpft sind. Wenn beispielsweise ein E-Mail-Konto die Adresse zum Zurücksetzen eines anderen Kontos ist, sollten Sie das Passwort für dieses Konto ändern
+- Schritt 5: Hören Sie an dieser Stelle nicht auf! Befolgen Sie die nachfolgenden wichtigen Schritte!
 
 ### **Wenn Sie keinen Zugang mehr zu Ihrem Account haben:**
 
-Folgen Sie den Wiedererlangungsverfahren Ihres jeweiligen E-Mail-Providers. Bitte beachten Sie, dass die verschiedenen Dienstleister unterschiedliche Verfahren für das Zurücksetzen des Passworts für Ihren Account haben. Manche schicken Ihnen einen Link, um Ihr Passwort zu ändern, wobei sie Ihre E-Mail-Adresse zur Wiedererlangung verwenden, andere wiederum setzten den Account auf Ihr letztes Passwort zurück. Werden Ihre Zugangsdaten zurückgesetzt, ist es wichtig, das Passwort sofort zu ändern, sobald Sie erneut Zugang zu Ihren Account haben. Wenn diese Schritte nicht funktionieren und Ihr Account weiterhin missbraucht wird, sollten Sie eine der unten aufgelisteten Organisationen kontaktieren, die Ihnen dabei helfen können, den Account zu schließen.
+Folgen Sie der Wiederherstellungsprozedur Ihres jeweiligen E-Mail-Anbieters. Bitte beachten Sie, dass die verschiedenen Dienstleister unterschiedliche Verfahren für das Zurücksetzen des Passworts für Ihr Konto haben. Manche schicken Ihnen per E-Mail einen Link, um Ihr Passwort zu ändern, wobei sie Ihre E-Mail-Adresse zum Wiederherstellen verwenden, andere wiederum setzen das Konto auf das letzte Passwort zurück. Werden Ihre Zugangsdaten zurückgesetzt, ist es wichtig, das Passwort umgehend zu ändern, sobald Sie erneut Zugang zu Ihrem Konto haben. Wenn diese Schritte nicht funktionieren und Ihr Konto weiterhin missbraucht wird, sollten Sie eine der unten aufgelisteten Organisationen kontaktieren, die Ihnen dabei helfen können, das Konto zu schließen.
 
 ## **Hören Sie an dieser Stelle nicht auf! Weitere wichtige Schritte folgen:**
 
-Wenn Sie den Verdacht haben, dass jemand anderes Zugang zu Ihrem Account hat, führen Sie folgende Schritte aus:
+Wenn Sie den Verdacht haben, dass jemand anderes Zugang zu Ihrem Konto hat, führen Sie folgende Schritte aus:
 
-- Schritt 1: Beantworten Sie für sich selbst folgende Fragen: Wer könnte einen Zugang zu Ihrem Account haben (Freunde, Mitarbeiter, Partner, Kinder)? Welche Geräte (Computer, Smartphone, Tablet) haben Sie benutzt, um sich in Ihren Account einzuloggen? An welchen Orten haben Sie sich in diese Accounts eingeloggt &nbsp;(Zuhause, Büro, Cybercafé, Wi-Fi-Netzwerk)?&nbsp;
-- Schritt 2: Benutzen Sie das gleiche Passwort auch für andere Accounts? Falls ja, führen Sie die gleichen Kontrollen bei diesen anderen Accounts durch. Geben Sie neue, jeweils unterschiedliche Passwörter für jeden Account ein.&nbsp;
-- Schritt 3: Denken Sie darüber nach, wofür Sie diesen Account nutzen. Enthält er sensible Informationen? Dazu können Ihre Kontakte, Informationen über Ihre Wohnung oder der Inhalt Ihrer Mitteilungen gehören. Wenn Sie meinen, dass diese Informationen ein Risiko für Ihre Kontakte darstellen könnten, informieren Sie sie darüber, dass Ihr Account kompromittiert wurde.&nbsp;
-- Schritt 4: Wiederholen Sie die Kontrolle des Verbindungs-Protokolls / der Account-Aktivitäten – mindestens einmal pro Woche einen Monat lang –, um sicherzustellen, dass Ihr Account nicht weiterhin seltsame Aktivitäten aufweist. Wenn er dennoch weiterhin seltsame Aktivitäten aufweist, lesen Sie bitte im Abschnitt „Schadprogramme" weiter.&nbsp;
+- Schritt 1: Beantworten Sie für sich selbst folgende Fragen: Wer könnte Zugang zu Ihrem Konto haben (Freunde, Mitarbeiter, Partner, Kinder)? Welche Geräte (Computer, Smartphone, Tablet) haben Sie benutzt, um sich in Ihr Konto einzuloggen? An welchen Orten haben Sie sich in dieses Konto eingeloggt (Zuhause, Büro, Cybercafé, WLAN-Netzwerk)?
+- Schritt 2: Benutzen Sie das selbe Passwort auch für andere Konten? Falls ja, führen Sie diese Kontrollen ebenfalls bei diesen Konten durch. Geben Sie neue, jeweils unterschiedliche Passwörter für jedes individuelle Konto ein.
+- Schritt 3: Denken Sie darüber nach, wofür Sie dieses Konto nutzen. Enthält er sensible Informationen? Dazu können Ihre Kontakte, Informationen über Ihren Aufenthaltsort oder der Inhalt Ihrer Mitteilungen gehören. Wenn Sie meinen, dass diese Informationen ein Risiko für Ihre Kontakte darstellen könnten, informieren Sie sie darüber, dass Ihr Konto kompromittiert wurde.
+- Schritt 4: Wiederholen Sie die Kontrolle des Verbindungs-Protokolls / der Konto-Aktivitäten – mindestens einmal pro Woche einen Monat lang –, um sicherzustellen, dass Ihr Konto nicht weiterhin ungewöhnliche Aktivitäten aufweist. Sollte es dennoch weiterhin seltsame Aktivitäten aufweisen, lesen Sie bitte im Abschnitt „Schadprogramme" weiter.
 
 ## **Ergreifen Sie besondere Schutzmaßnahmen gegen Angreifer:**
 
