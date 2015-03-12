@@ -6,7 +6,7 @@ Der Digitale Erste-Hilfe-Kasten ist ein Hilfsmittel, dass sich an Menschen richt
 
 ## **Konto-Diebstahl**
 
-Haben Sie Anmeldeprobleme beim Zugriff auf Ihre E-Mails, soziale Netzwerke oder andere Webseiten? Gibt es auf einem Konto Aktivitäten, die Sie nicht nachvollziehen können? Es gibt zahlreiche Möglichkeiten, um diesen Problemen zu begegnen.
+Sie wollen auf Ihre E-Mails, sozialen Netzwerke oder einen ihrer anderen Online-Dienste zugreifen, haben aber Probleme beim Anmelden? Möglicherweise gibt es auf einem Ihrer Online-Konten seltsame Aktivitäten, die Sie so nicht nachvollziehen können? Der Verdacht auf einen **Konto-Diebstahl** liegt nahe. Keine Panik, denn es gibt Möglichkeiten, um diesen Problemen zu begegnen.
 
 ## **Beginnen Sie mit der Beantwortung einiger einfacher Fragen:**
 
