@@ -2,7 +2,7 @@
 
 ## **Der Digitale Erste-Hilfe-Kasten**
 
-Der Digitale Erste-Hilfe-Kasten ist ein Hilfsmittel, dass sich an Menschen richtet, die den häufigsten Arten der digitalen Bedrohung ausgesetzt sind. Der Erste-Hilfe-Kasten bietet eine Reihe von Werkeugen zur Selbstdiagnose für Bürger, Menschenrechtsaktivisten, Blogger, Aktivisten und Journalisten, die selbst Ziel von Angriffen werden, sowie Leitlinien für digitale Notfallhelfer, um einen bedrohten Nutzer zu unterstützen.
+Der Digitale Erste-Hilfe-Kasten ist ein Hilfsmittel, das sich an Menschen richtet, die den häufigsten Arten der digitalen Bedrohung ausgesetzt sind. Der Erste-Hilfe-Kasten bietet eine Reihe von Werkeugen zur Selbstdiagnose für Bürger, Menschenrechtsaktivisten, Blogger, Aktivisten und Journalisten, die selbst Ziel von Angriffen werden, sowie Leitlinien für digitale Notfallhelfer, um einen bedrohten Nutzer zu unterstützen.
 
 ## **Konto-Diebstahl**
 
