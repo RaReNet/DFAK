@@ -23,7 +23,7 @@ It is good practice to **contact your webmaster and the site host** after invest
 There can be different reasons why your website is down. This can range from network to policy, hosting, blocking, software, defacement and performance problems. The section below explains what each of these problems is and how to diagnose which problem you are facing.
 
 - **Is your web host working, but your website is unavailable?** 
-    1. Check [on this website](http://www.isup.me/) 
+    1. Check [on this website](http://isitdownorjust.me) 
         - Your site is up, but you can’t see it? 
             - This is a **network problem**. Your own internet connection could be having problems or be blocking your access to your site. 
             - This could also indicate that your account has been disabled: **Are you seeing a message from your web hosting provider?** 
