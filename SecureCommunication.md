@@ -58,7 +58,7 @@ Download, verify, and install TAILS carefully, [following the instructions provi
 
 If you believe your communications are being targeted, you must stop using the communications services/accounts that you believe are compromised immediately. Create a new account and remember not to re-use your existing usernames, passwords or email accounts as you seek help.
 
-*Note*: If you are unable to set up PGP email  with Thunderbird or OTR with Pidgin or Adium,  [Mailvelope](https://www.mailvelope.com/) for email and [Cryptocat](https://crypto.cat/) app for chat in Firefox or Chrome are fast and simple ways to set up more secure communications in an emergency.
+*Note*: If you are unable to set up PGP email with Thunderbird or OTR with Pidgin or Adium, [Mailvelope](https://www.mailvelope.com/) for email is fast and simple ways to set up more secure communications in an emergency.
 
 The following important recommendations can help you to set up new channels of secure communication:
 
@@ -75,7 +75,7 @@ The following important recommendations can help you to set up new channels of s
 
 ## Safer Communication on a smartphone
 
-If you only have a smartphone, the following tools can protect your communication. Be aware that your phone is generally tied to your identity (through billing, account services or SIM card registration) and can reveal your location. These tools do not protect against this, they only encrypt  the content of your communication.
+If you only have a smartphone, the following tools can protect your communication. Be aware that your phone is generally tied to your identity (through billing, account services or SIM card registration) and can reveal your location. These tools do not protect against this, they only encrypt the content of your communication.
 
 ### Android
 
