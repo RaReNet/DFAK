@@ -10,3 +10,4 @@ github_username:  RaReNet
 
 # Build settings
 markdown: kramdown
+include: ['_pages']
