@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Dispositivos Incautados"
+author: RaReNet
+summary: "¿Tu dispositivo está perdido? ¿Ha sido robado o incautado por un tercero? En cualquiera de estos casos es muy importante tener claro que sucedió exactamente, que tipo de datos y documentos pueden ser vulnerables debido a esto y qué pasos deben ser tomados para prevenir la publicación o los abusos de tu información, contactos y cuentas."
+date: 2015-08
+permalink: /es/DispositivosIncautados/
+parent: /es/
+---
+
 # Dispositivos Incautados
 
 ¿Tu dispositivo está perdido? ¿Ha sido robado o incautado por un tercero? En cualquiera de estos casos es muy importante tener claro que sucedió exactamente, que tipo de datos y documentos pueden ser vulnerables debido a esto y qué pasos deben ser tomados para prevenir la publicación o los abusos de tu información, contactos y cuentas.

@@ -1,3 +1,13 @@
+---
+layout: page
+title: ""
+author: RaReNet
+summary: ""
+date: 2015-08
+permalink: //
+parent: Home
+---
+
 # Referencias Útiles
 
 ## Referencias relacionadas a emergencias digitales

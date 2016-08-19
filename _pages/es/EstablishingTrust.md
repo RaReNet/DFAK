@@ -1,6 +1,16 @@
+---
+layout: page
+title: "Construyendo Confianza"
+author: RaReNet
+summary: "Anteriormente, mencionamos algunas formas básicas de comenzar a establecer confianzae entre alguien que busca ayuda y aquel que pueda brindársela. Esta sección busca colocar una capa técnica de confianza por encima de lo ya comentado, así como entender las herramientas que te pueden ayudar a mantener una conversación segura sólo con la persona con la que piensas que estás conversando. Es importante notar que a pesar de que esta sección tiene un nivel técnico importante, te pedimos que hagas tu mayor esfuerzo - ¡Es mejor usar herramientas de cifrado que no usarlas!"
+date: 2015-08
+permalink: /es/ConstruyendoConfianza/
+parent: /es/
+---
+
 # Construyendo Confianza
 
-Anteriormente, mencionamos algunas formas básicas de comenzar a [establecer confianza](https://hackpad.com/The-Digital-First-Aid-Kit-PdhSvxKOM5M#:h=Trust) entre alguien que busca ayuda y aquel que pueda brindársela. Esta sección busca colocar una capa técnica de confianza por encima de lo ya comentado, así como entender las herramientas que te pueden ayudar a mantener una conversación segura sólo con la persona con la que piensas que estás conversando. Es importante notar que a pesar de que esta sección tiene un nivel técnico importante, te pedimos que hagas tu mayor esfuerzo - ¡Es mejor usar herramientas de cifrado que no usarlas!
+Anteriormente, mencionamos algunas formas básicas de comenzar a establecer confianza entre alguien que busca ayuda y aquel que pueda brindársela. Esta sección busca colocar una capa técnica de confianza por encima de lo ya comentado, así como entender las herramientas que te pueden ayudar a mantener una conversación segura sólo con la persona con la que piensas que estás conversando. Es importante notar que a pesar de que esta sección tiene un nivel técnico importante, te pedimos que hagas tu mayor esfuerzo - ¡Es mejor usar herramientas de cifrado que no usarlas!
 
 Herramientas de cifrado como OTR ("Off the Record") y PGP ("Pretty Good Privacy") poseen muchos beneficios. Los mensajes o archivos cifrados con OTR o PGP están protegidos de cualquier persona tomando o monitoreando las comunicaciones entre tu computadora y el destino final de tus mensajes. El problema sin embargo, es estar seguro de que el destino final de tus mensajes es el 'correcto'.
 

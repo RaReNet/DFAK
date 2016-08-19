@@ -1,4 +1,13 @@
-# DDoS Mitigation
+---
+layout: page
+title: "Mitigación de ataques DDoS"
+author: RaReNet
+summary: "Una amenaza enfrentada por muchos periodistas independientes, sitios de noticias y blogueros es tener sus voces calladas debido a que su página web está caida o modificada. En muchos casos, esto puede ser un problema cándido y frustrante, pero en casiones, puede ser debido a un ataque de "denegación de servicio" o una toma de la página web. Esta sección del Digital Fist Aid Kit (Kit de Primeros Auxilios Digitales) te mostrará algunos pasos básicos para diagnosticar probelmas potenciales."
+date: 2015-08
+permalink: /es/MitigacionDDoS/
+parent: /es/
+---
+
 # Mitigación de ataques DDoS
 
 Una amenaza enfrentada por muchos periodistas independientes, sitios de noticias y blogueros es tener sus voces calladas debido a que su página web está caida o modificada. En muchos casos, esto puede ser un problema cándido y frustrante, pero en casiones, puede ser debido a un ataque de "denegación de servicio" o una toma de la página web. Esta sección del Digital Fist Aid Kit (Kit de Primeros Auxilios Digitales) te mostrará algunos pasos básicos para diagnosticar probelmas potenciales. Si tu sitio web está bajo un ataque de denegación de servicio, sesugieren algunas acciones inmediatas para siguientes pasos.
