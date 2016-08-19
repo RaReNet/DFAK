@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Resources"
-author: RaReNet JC, EG, DV, TL, others
-summary: ""
+author: RaReNet
+summary: "Resources"
 date: 2015-08
-permalink: /Resources/
-parent: Home
+permalink: /en/Resources/
+parent: /en/
 ---
 
 
