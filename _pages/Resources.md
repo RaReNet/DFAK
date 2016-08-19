@@ -1,3 +1,14 @@
+---
+layout: page
+title: "Resources"
+author: RaReNet JC, EG, DV, TL, others
+summary: ""
+date: 2015-08
+permalink: /Resources/
+parent: Home
+---
+
+
 # Helpful resources
 
 ## Resources related to digital emergencies

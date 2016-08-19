@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Devices Seized"
+author: RaReNet JC, EG, DV, TL, others
+summary: ""
+date: 2015-08
+permalink: /DevicesSeized/
+parent: Home
+---
+
 # Devices Seized
 
 Is your device lost? Has it been stolen or seized by a third party? In any of these incidences it is very important to get a clear picture of what happened, what kinds of data and accounts may be vulnerable as a result and what steps must be taken to prevent the leaking and misuse of your information, contacts and accounts.

@@ -1,3 +1,14 @@
+---
+layout: page
+title: "Account Hijacking"
+author: RaReNet JC, EG, DV, TL, others
+summary: ""
+date: 2015-08
+permalink: /AccountHijacking/
+parent: Home
+---
+
+
 # Account Hijacking
 
 Are you having a problem accessing an email, social media or web account? Does an account show activity that you do not recognize? There are many things you can do to mitigate this problem.
