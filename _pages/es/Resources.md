@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ""
+title: "Referencias Útiles"
 author: RaReNet
-summary: ""
+summary: "Referencias Útiles"
 date: 2015-08
-permalink: //
-parent: Home
+permalink: /es/Referencias/
+parent: /es/
 ---
 
 # Referencias Útiles

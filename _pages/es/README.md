@@ -20,14 +20,13 @@ El Kit de Primeros Auxilios Digitales nació cuando un número de organizaciones
 
 El Kit de Primeros Auxilios Digitales es un esfuerzo colaborativo de la EFF, Global Voices, Hivos y la Digital Defenders Partnership, Front Line Defenders, Internews, Freedom House, Access, Virtual Road, CIRCL, IWPR, Open Technology Fund y expertos en seguridad independientes trabajando en el campo de la segurida digital y respuesta inmediata. Este es un trabajo en constante progreso y si hay cosas que pueden ser agregadas, comentarios o preguntas sobre alguna de las secciones por favor abre un bug o has un pull request.
 
-<!--
-* [¡Cómo obtener ayuda!](SecureCommunication.md) (Lee esta sección primero sobre cómo comunicarte con otros, y sobre *dónde conseguir ayuda*)
-* [¿Tu cuenta ha sido hackeada?](AccountHijacking.md) (¿No puedes usar tu propia cuenta? ¿Observas actividad inusual en ella?)
-* [¿Tu teléfono o laptop ha sido tomado por otro?](DevicesSeized.md) (¿Fue tomado frente a ti en un punto de seguridad/chequeo? ¿Robado/Decomisado? ¿Ha sido devuelto?)
-* [¿Tu equipo tiene software malicioso?](Malware.md) (¿Tu computadora está actuando extraño?)
-* [¿Tu sitio web está bajo ataque?](DDoSMitigation.md) (¿Tu sitio web está caído? ¿Ha sido modificado?)
+* [¡Cómo obtener ayuda!](ComunicacionesSeguras) (Lee esta sección primero sobre cómo comunicarte con otros, y sobre *dónde conseguir ayuda*)
+* [¿Tu cuenta ha sido hackeada?](HackeodeCuentas) (¿No puedes usar tu propia cuenta? ¿Observas actividad inusual en ella?)
+* [¿Tu teléfono o laptop ha sido tomado por otro?](DispositivosIncautados) (¿Fue tomado frente a ti en un punto de seguridad/chequeo? ¿Robado/Decomisado? ¿Ha sido devuelto?)
+* [¿Tu equipo tiene software malicioso?](Malware) (¿Tu computadora está actuando extraño?)
+* [¿Tu sitio web está bajo ataque?](MitigacionDDoS) (¿Tu sitio web está caído? ¿Ha sido modificado?)
 
 Ve también:
-* [Glosario de Términos](Glossary.md)
-* [Lecturas Posteriores y Referencias](Resources.md)
--->
+
+* [Glosario de Términos](Glosario)
+* [Lecturas Posteriores y Referencias](Referencias)
