@@ -4,7 +4,7 @@ title: "Gerät verloren? Gestohlen? Beschlagnahmt?"
 author: RaReNet JC, EG, DV, TL, others
 summary: ""
 date: 2015-08
-permalink: /DevicesSeized/
+permalink: /de/DevicesSeized/
 parent: Home
 ---
 
