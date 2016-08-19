@@ -6,7 +6,6 @@ summary: ""
 date: 2015-08
 permalink: /DDoSMitigation/
 parent: Home
-breadcrumb: "DDoS Mitigation"
 ---
 
 # DDoS Mitigation
