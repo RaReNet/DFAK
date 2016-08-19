@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Введение"
+author: RaReNet
+summary: "Комплект неотложной цифровой помощи стремится предоставить первичную поддержку для тех, кто столкнулся с наиболее распространёнными видами цифровых угроз. Комплект предлагает набор инструментов самодиагностики для защитников прав человека, блогеров, активистов и журналистов, которые сами столкнулись с атаками, а также являет собой руководство для технических специалистов, которые оказывают поддержку людям, находящимся под угрозой."
+date: 2015-08
+permalink: /ru/
+parent: Home
+---
+
 Введение
 ============
 
@@ -11,6 +21,16 @@
 
 Комплект неотложной цифровой помощи является плодом коллективного сотрудничества между организациями EFF, Global Voices, Hivos & the Digital Defenders Partnership, Front Line Defenders, Internews, Freedom House, Access, Qurium, CIRCL, IWPR, Open Technology Fund и независимыми экспертами в области цифровой безопасности и экстренного реагирования. Работа над проектом ещё ведётся. Если вы считаете, что что-то нужно добавить, если у вас есть комментарии или вопросы касательно следующих разделов, пожалуйста, посетите наш проект на [Github](https://github.com/RaReNet/DFAK).
 
+* [Защищённые подключения](/ru/Защищённыеподключения/)
+* [Взлом учётных записей](/ru/Взломучётныхзаписей/)
+* [Конфискованные устройства](/ru/Конфискованныеустройства/)
+* [Вредоносное программное обеспечение](/ru/Вредоносноепрограммноеобеспечение/)
+* [Устранение последствий DdoS-атак](/ru/УстранениепоследствийDdoS-атак/)
+
+* [Словарь](/ru/Словарь/)
+* [Полезная информация](/ru/Полезнаяинформация/)
+
+<!--
 * [How to get help!](SecureCommunication_RU.md) (Read this section first on how to communicate securely with others, and *where you can get help*)
 * [Has your account been hijacked?](AccountHijacking_RU.md) (Are you locked out of your account? Seeing unusual activity?)
 * [Has your phone or laptop been taken from you?](DevicesSeized_RU.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
@@ -20,3 +40,4 @@
 See also:
 * [Glossary of terms](Glossary_RU.md)
 * [Further Reading and Resources](Resources_RU.md)
+-->
