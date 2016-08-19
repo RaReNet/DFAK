@@ -1,3 +1,14 @@
+---
+layout: post
+title: "DDoS Mitigation"
+author: RaReNet JC, EG, DV, TL, others
+summary: ""
+date: 2015-08
+permalink: /DDoSMitigation/
+parent: Home
+breadcrumb: "DDoS Mitigation"
+---
+
 # DDoS Mitigation
 
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced. In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a 'denial of service' attack or a website takeover. This section of the Digital First Aid Kit will walk you through some basic steps to diagnose potential problems. If your site is under a denial of service attack, some immediate options for next steps are suggested.
