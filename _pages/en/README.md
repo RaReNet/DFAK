@@ -20,12 +20,13 @@ The Digital First Aid Kit came about when a number of organizations working in t
 
 The Digital First Aid Kit is a collaborative effort of EFF, Global Voices, Hivos & the Digital Defenders Partnership, Front Line Defenders, Internews, Freedom House, Access, Virtual Road, CIRCL, IWPR, Open Technology Fund and individual security experts who are working in the field of digital security and rapid response. It is a work in progress and if there are things that need to be added, comments or questions regarding any of the sections please open a bug or do a pull request.
 
-* [How to get help!](SecureCommunication.md) (Read this section first on how to communicate securely with others, and *where you can get help*)
-* [Has your account been hijacked?](AccountHijacking.md) (Are you locked out of your account? Seeing unusual activity?)
-* [Has your phone or laptop been taken from you?](DevicesSeized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
-* [Does your computer have malware?](Malware.md) (Is your computer acting suspicious?)
-* [Is your website under attack?](DDoSMitigation.md) (Is your site down? Has it been defaced?)
+* [How to get help!](SecureCommunication) (Read this section first on how to communicate securely with others, and *where you can get help*)
+* [Has your account been hijacked?](AccountHijacking) (Are you locked out of your account? Seeing unusual activity?)
+* [Has your phone or laptop been taken from you?](DevicesSeized) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
+* [Does your computer have malware?](Malware) (Is your computer acting suspicious?)
+* [Is your website under attack?](DDoSMitigation) (Is your site down? Has it been defaced?)
 
 See also:
-* [Glossary of terms](Glossary.md)
-* [Further Reading and Resources](Resources.md)
+
+* [Glossary of terms](Glossary)
+* [Further Reading and Resources](Resources)
