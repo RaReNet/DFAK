@@ -4,7 +4,7 @@ title: "Konto-Diebstahl"
 author: RaReNet JC, EG, DV, TL, others
 summary: ""
 date: 2015-08
-permalink: /AccountHijacking/
+permalink: /de/AccountHijacking/
 parent: Home
 ---
 

@@ -4,7 +4,7 @@ title: "Glossar"
 author: RaReNet JC, EG, DV, TL, others
 summary: ""
 date: 2015-08
-permalink: /Glossary/
+permalink: /de/Glossary/
 parent: Home
 ---
 

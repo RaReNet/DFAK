@@ -4,7 +4,7 @@ title: "Sichere Kommunikation"
 author: RaReNet JC, EG, DV, TL, others
 summary: ""
 date: 2015-08
-permalink: /SecureCommunication/
+permalink: /de/SecureCommunication/
 parent: Home
 ---
 

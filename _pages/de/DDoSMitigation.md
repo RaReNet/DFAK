@@ -4,7 +4,7 @@ title: "DDoS Eindämmung"
 author: RaReNet JC, EG, DV, TL, others
 summary: ""
 date: 2015-08
-permalink: /DDoSMitigation/
+permalink: /de/DDoSMitigation/
 parent: Home
 ---
 
