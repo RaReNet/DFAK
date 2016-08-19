@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Hackeo de Cuentas"
+author: RaReNet
+summary: "¿Estás teniendo problemas para acceder a un correo, cuenta web o de redes sociales? ¿Alguna cuenta muestra alguna actividad que no reconoces? Hay muchas cosas que se pueden hacer para mitigar estos problemas. "
+date: 2015-08
+permalink: /es/HackeodeCuentas/
+parent: /es/
+---
+
 # Hackeo de Cuentas
 
 ¿Estás teniendo problemas para acceder a un correo, cuenta web o de redes sociales? ¿Alguna cuenta muestra alguna actividad que no reconoces? Hay muchas cosas que se pueden hacer para mitigar estos problemas. 

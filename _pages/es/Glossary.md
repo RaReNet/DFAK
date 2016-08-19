@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Glosario"
+author: RaReNet
+summary: "Glosario"
+date: 2015-08
+permalink: /es/Glosario/
+parent: /es/
+---
+
 # Glosario
 
 - **DDoS / Ataque Distribuido de Denegación de Servicio**:  Un ataque de 'Denegación de Servicio' se da cuando un usuario malicioso (o usuarios), intentan ver el sitio repetidamente y rápidamente (usando herramientas automatizadas), y al hacerlo desplaza a los lectores reales. A veces es un solo 'atacante', lo cual generalmente no representa un gran problema - salvo que pagues por ancho de banda utilizado. El ataque más frecuente obervado es el ataque de denegación de servicio 'distribuido' (DDoS), en donde el atacante usa miles de equipos bajo su control para llevar a cabo el ataque contra un sitio web.

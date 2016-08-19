@@ -1,5 +1,14 @@
-Introducción
-============
+---
+layout: page
+title: "Introducción"
+author: RaReNet
+summary: "Introducción"
+date: 2015-08
+permalink: /es/
+parent: Home
+---
+
+# Introducción
 
 El Digital First Aid Kit (o Kit de Primeros Auxilios Digitales) busca proveer un soporte preliminar a aquellas personas que enfrentan los tipos de amenazas digitales más comunes. El Kit ofrece una serie de herramientas de auto diagnóstico para defensores de Derechos Humanos, blogueros, activistas y periodistas víctimas de ataques, así como también provee guías básicas para personas que ayudan con respuesta inmediata a estos activistas en situación riesgo.
 
@@ -11,7 +20,7 @@ El Kit de Primeros Auxilios Digitales nació cuando un número de organizaciones
 
 El Kit de Primeros Auxilios Digitales es un esfuerzo colaborativo de la EFF, Global Voices, Hivos y la Digital Defenders Partnership, Front Line Defenders, Internews, Freedom House, Access, Virtual Road, CIRCL, IWPR, Open Technology Fund y expertos en seguridad independientes trabajando en el campo de la segurida digital y respuesta inmediata. Este es un trabajo en constante progreso y si hay cosas que pueden ser agregadas, comentarios o preguntas sobre alguna de las secciones por favor abre un bug o has un pull request.
 
-
+<!--
 * [¡Cómo obtener ayuda!](SecureCommunication.md) (Lee esta sección primero sobre cómo comunicarte con otros, y sobre *dónde conseguir ayuda*)
 * [¿Tu cuenta ha sido hackeada?](AccountHijacking.md) (¿No puedes usar tu propia cuenta? ¿Observas actividad inusual en ella?)
 * [¿Tu teléfono o laptop ha sido tomado por otro?](DevicesSeized.md) (¿Fue tomado frente a ti en un punto de seguridad/chequeo? ¿Robado/Decomisado? ¿Ha sido devuelto?)
@@ -21,3 +30,4 @@ El Kit de Primeros Auxilios Digitales es un esfuerzo colaborativo de la EFF, Glo
 Ve también:
 * [Glosario de Términos](Glossary.md)
 * [Lecturas Posteriores y Referencias](Resources.md)
+-->
