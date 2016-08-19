@@ -11,3 +11,4 @@ github_username:  RaReNet
 # Build settings
 markdown: kramdown
 include: ['_pages']
+baseurl: /DFAK # Remove or edit when hosting outside of GH-pages; visit this subdir if running locally
