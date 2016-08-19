@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: page
 title: "DDoS Mitigation"
 author: RaReNet JC, EG, DV, TL, others
 summary: ""
 date: 2015-08
 permalink: /DDoSMitigation/
 parent: Home
-breadcrumb: "DDoS Mitigation"
 ---
 
 # DDoS Mitigation

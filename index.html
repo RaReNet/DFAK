@@ -4,8 +4,22 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
 
+  <h1 class="page-heading">DFAK Content</h1>
+<p><strong>BETA: this lists every page in _pages without any order!</strong></p>
+  <ul class="post-list">
+    {% for page in site.pages %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+
+  <h1 class="page-heading">DFAK Updates</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
