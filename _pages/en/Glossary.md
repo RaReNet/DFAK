@@ -2,9 +2,9 @@
 layout: page
 title: "Glossary"
 author: RaReNet JC, EG, DV, TL, others
-summary: ""
+summary: "Glossary"
 date: 2015-08
-permalink: /Glossary/
+permalink: /en/Glossary/
 parent: Home
 ---
 
