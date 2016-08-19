@@ -1,3 +1,14 @@
+---
+layout: page
+title: "Establishing Trust"
+author: RaReNet JC, EG, DV, TL, others
+summary: ""
+date: 2015-08
+permalink: /EstablishingTrust/
+parent: Home
+---
+
+
 # Establishing Trust
 
 Above, we mention some basic ways to begin to [establish trust](https://hackpad.com/The-Digital-First-Aid-Kit-PdhSvxKOM5M#:h=Trust) between someone seeking help and someone helping out. This section addresses how to add a technical layer of trust onto that, and understand the tools that help you maintain a secure conversation with only the person you think you're conversing with. It's important to note that while this section is rather technical, do the best you can - it is better to use encryption tools than to not use them!

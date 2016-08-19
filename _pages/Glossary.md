@@ -1,3 +1,14 @@
+---
+layout: page
+title: "Glossary"
+author: RaReNet JC, EG, DV, TL, others
+summary: ""
+date: 2015-08
+permalink: /Glossary/
+parent: Home
+---
+
+
 # Glossary
 
 - **DDoS / Distributed Denial of Service Attack**:   A 'Denial of Service' attack is where a malicious user (or users) crowd out legitimate users of a service such as a website or a chat server.  Sometimes it’s one 'attacker' trying to do this to your site, which doesn’t usually cause much of a problem - unless you pay for bandwidth. More common is the 'Distributed' Denial of Service (DDoS), where an attacker uses thousands of machines under his control to targets a site.
