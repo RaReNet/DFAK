@@ -4,6 +4,7 @@ title: "Glosario"
 author: RaReNet
 summary: "Glosario"
 date: 2015-08
+redirect_from: /es/Glossary
 permalink: /es/Glosario/
 parent: /es/
 ---

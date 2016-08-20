@@ -4,6 +4,7 @@ title: "Comunicaciones Seguras"
 author: RaReNet
 summary: "Esta sección te puede servir de guía al establecer comunicaciones seguras cuando busques ayuda en el momento en que enfrentes un potencial ataque digital. Como una regla general, es importante entender que las herramientas de comunicación mas 'normales' no son muy seguras contra el monitoreo. Las llamadas telefónicas celulares y fijas no están cifradas y pueden ser escuchadas por gobiernos, cuerpos de seguridad u otros actores con el equipamiento técnico necesario. Enviar comunicaciones no cifradas es como enviar una tarjeta postal, cualquiera con acceso a la postal puede leer el mensaje. Enviar comunicaciones cifradas es como meter la tarjeta postal en una caja fuerte y enviarla, en donde sólo tu y en quién tu confíes conocen la combinación y serán capaces de abrir la caja fuerte y leer el mensaje."
 date: 2015-08
+redirect_from: /es/SecureCommunication/
 permalink: /es/ComunicacionesSeguras/
 parent: /es/
 ---
