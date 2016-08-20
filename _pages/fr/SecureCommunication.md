@@ -1,5 +1,15 @@
+---
+layout: page
+title: "Communication sécurisée"
+author: RaReNet
+summary: "Cette section vous fournit des indications sur les façons d'établir des communications sûres quand vous demandez de l'aide parce que vous êtes confronté à une éventuelle attaque informatique. D'une manière générale, il est important de comprendre que la plupart des outils de communication «&nbsp;normaux&nbsp;» ne sont pas très protégés contre la surveillance."
+date: 2015-08
+redirect_from: /fr/SecureCommunications/
+permalink: /fr/CommunicationSecurisee/
+parent: /fr/
+---
 
-6. Communication sécurisée
+# Communication sécurisée
 
 Cette section vous fournit des indications sur les façons d'établir des communications sûres quand vous demandez de l'aide parce que vous êtes confronté à une éventuelle attaque informatique. D'une manière générale, il est important de comprendre que la plupart des outils de communication «&nbsp;normaux&nbsp;» ne sont pas très protégés contre la surveillance. Les communications téléphoniques mobile et fixe ne sont pas cryptées et peuvent être écoutées par les gouvernements, les forces de l'ordre ou d'autres parties disposant de l'équipement nécessaire. Envoyer des communications non cryptées est comme envoyer une carte postale&nbsp;: n'importe qui ayant accès à la carte postale peut lire le message. Envoyer des communications cryptées est comme de placer la carte postale dans un coffre-fort puis d'envoyer le coffre-fort&nbsp;: seuls vous et ceux en qui vous avez confiance en possèdent la combinaison et sont capables de l'ouvrir et de lire le message.
 

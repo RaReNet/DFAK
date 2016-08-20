@@ -1,4 +1,15 @@
-5. Glossaire
+---
+layout: page
+title: "Glossaire"
+author: RaReNet
+summary: "Glossaire"
+date: 2015-08
+redirect_from: /fr/Glossary/
+permalink: /fr/Glossaire/
+parent: /fr/
+---
+
+Glossaire
 
 - .Chiffrage (cryptage) de la couche transport&nbsp;: consiste en protocoles cryptographiques (Transport Layer Security, TLS, et Secure Sockets Layer, SSL) conçus pour fournir des canaux de communication sécurisée sur Internet.&nbsp;
 - .Cryptage de bout en bout&nbsp;: signifie que les messages ou les fichiers sont cryptés quand ils quittent votre appareil et le restent jusqu'à ce qu'ils atteignent la bonne adresse (un utilisateur spécifique).&nbsp;
