@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Gerät verloren? Gestohlen? Beschlagnahmt?"
-author: RaReNet JC, EG, DV, TL, others
-summary: ""
+author: RaReNet
+summary: "Haben Sie Ihr Gerät verloren? Wurde es gestohlen oder von einem Dritten beschlagnahmt? In allen diesen Fällen ist es wichtig, sich ein klares Bild von der Situation zu machen und zu analysieren, welche Art von Daten und Accounts infolge des Vorfalls angreifbar sein könnten und welche Schritte unternommen werden müssen, um ein Leck sowie den Missbrauch Ihrer Informationen, Kontakte und Accounts zu verhindern."
 date: 2015-08
-permalink: /de/DevicesSeized/
-parent: Home
+redirect_from: /de/DevicesSeized/
+permalink: /de/Geratverloren/
+parent: /de/
 ---
 
 # Geräte beschlagnahmt? Verloren? Gestohlen?

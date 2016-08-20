@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Glossar"
-author: RaReNet JC, EG, DV, TL, others
-summary: ""
+author: RaReNet
+summary: "Glossar"
 date: 2015-08
-permalink: /de/Glossary/
-parent: Home
+redirect_from: /de/Glossary/
+permalink: /de/Glossar/
+parent: /de/
 ---
 
 

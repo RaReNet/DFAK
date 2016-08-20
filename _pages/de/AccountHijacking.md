@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Konto-Diebstahl"
-author: RaReNet JC, EG, DV, TL, others
-summary: ""
+author: RaReNet
+summary: "Sie wollen auf Ihre E-Mails, soziale Netzwerke oder einen ihrer anderen Online-Dienste zugreifen, haben aber Probleme beim Anmelden? Möglicherweise gibt es auf einem Ihrer Online-Konten seltsame Aktivitäten, die Sie so nicht nachvollziehen können? Der Verdacht auf einen **Konto-Diebstahl** liegt nahe. Keine Panik, denn es gibt Möglichkeiten, um diesen Problemen zu begegnen."
 date: 2015-08
-permalink: /de/AccountHijacking/
-parent: Home
+redirect_from: /de/AccountHijacking/
+permalink: /de/Konto-Diebstahl/
+parent: /de/
 ---
 
 # Konto-Diebstahl
