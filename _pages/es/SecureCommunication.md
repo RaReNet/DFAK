@@ -4,7 +4,7 @@ title: "Comunicaciones Seguras"
 author: RaReNet
 summary: "Esta sección te puede servir de guía al establecer comunicaciones seguras cuando busques ayuda en el momento en que enfrentes un potencial ataque digital. Como una regla general, es importante entender que las herramientas de comunicación mas 'normales' no son muy seguras contra el monitoreo. Las llamadas telefónicas celulares y fijas no están cifradas y pueden ser escuchadas por gobiernos, cuerpos de seguridad u otros actores con el equipamiento técnico necesario. Enviar comunicaciones no cifradas es como enviar una tarjeta postal, cualquiera con acceso a la postal puede leer el mensaje. Enviar comunicaciones cifradas es como meter la tarjeta postal en una caja fuerte y enviarla, en donde sólo tu y en quién tu confíes conocen la combinación y serán capaces de abrir la caja fuerte y leer el mensaje."
 date: 2015-08
-permalink: /es/ComunicacionesSeguras/
+permalink: /es/SecureCommunication/
 parent: /es/
 ---
 
@@ -12,7 +12,7 @@ parent: /es/
 
 Esta sección te puede servir de guía al establecer comunicaciones seguras cuando busques ayuda en el momento en que enfrentes un potencial ataque digital. Como una regla general, es importante entender que las herramientas de comunicación mas 'normales' no son muy seguras contra el monitoreo. Las llamadas telefónicas celulares y fijas no están cifradas y pueden ser escuchadas por gobiernos, cuerpos de seguridad u otros actores con el equipamiento técnico necesario. Enviar comunicaciones no cifradas es como enviar una tarjeta postal, cualquiera con acceso a la postal puede leer el mensaje. Enviar comunicaciones cifradas es como meter la tarjeta postal en una caja fuerte y enviarla, en donde sólo tu y en quién tu confíes conocen la combinación y serán capaces de abrir la caja fuerte y leer el mensaje.
 
-Usar comunicaciones seguras es como colocar en una balanza seguridad y conveniencia. Elegir la forma mas apropiada de comunicación segura dependerá de tu situación particular, tus modelos de riesgos y las actividades en las que estás involucrado. El Digital First Aid Kit está pensado para aquellas personas víctimas de un ataque digital; por lo que esta sección de comunicaciones seguras asume que estás en alto riesgo. 
+Usar comunicaciones seguras es como colocar en una balanza seguridad y conveniencia. Elegir la forma mas apropiada de comunicación segura dependerá de tu situación particular, tus modelos de riesgos y las actividades en las que estás involucrado. El Digital First Aid Kit está pensado para aquellas personas víctimas de un ataque digital; por lo que esta sección de comunicaciones seguras asume que estás en alto riesgo.
 
 Finalmente, existen varios niveles de seguridad cuando nos comunicamos. Cómo lo hacemos y qué tipo de herramienta de cifrado usamos va a incrementar o disminuir la seguridad en tus comunicaciones. Una herramienta de comunicación que provee cifrado de extremo a extremo (como correo electrónico cifrado con PGP o chat con OTR o Textsecure en tu teléfono) es mejor que usar una herramienta con cifrado en la capa de transporte (como Gmail, Facebook o Twitter). Esto en cambio es mejor que usar comunicaciones no cifradas (como una tarjeta postal, llamadas telefónicas o mensajes de texto). Has tu mejor esfuerzo con los recursos y habilidades disponibles. Comienza con la forma de comunicación más segura que tu y la persona con quien quieres hablar puedan manejar y de ser necesario, de ahí en adelante utilizar esos canales para establecer formas de comunicación aun más seguras. En muchos casos, es mejor pedir ayuda de forma insegura que no perdirla en absoluto.
 
@@ -104,7 +104,7 @@ Las opciones para el iPhone son más limitadas, pero la aplicación *ChatSecure*
 
 Ya sea que estás ayudando a alguien de forma remota o estás buscando ayuda de un tercero, establecer confianza es tanto muy importante como extremadamente complicado. Debes asumir que un adversario puede tener acceso a todos tus detalles de cuenta así como tus comunicaciones originales cuando busques ayuda. Este adversario tiene un interés obvio en interceptar tus canales seguros de comunicación y proveer malos consejos de forma específica. Las herramientas de seguridad tienen formas incorporadas de verificar si la persona con la que estás hablando es en efecto la persona con la que piensas que estás hablando. Cuando recibas consejos, compáralos con los conceptos discutidos en guías bien respetadas como [Security in a Box](https://securityinabox.org/), referencias en la [EFF](https://www.eff.org/) (En Inglés) y la [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works) (En Inglés).
 
-Más información sobre los aspectos técnicos relacionados a la confianza pueden ser encontrada en la sección Construyendo Confianza. 
+Más información sobre los aspectos técnicos relacionados a la confianza pueden ser encontrada en la sección Construyendo Confianza.
 
 ## Referencias Útiles
 

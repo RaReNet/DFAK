@@ -4,7 +4,7 @@ title: "Referencias Útiles"
 author: RaReNet
 summary: "Referencias Útiles"
 date: 2015-08
-permalink: /es/Referencias/
+permalink: /es/Resources/
 parent: /es/
 ---
 
@@ -19,7 +19,7 @@ parent: /es/
 - Freedom House http://freedomhouse.org/ (En Inglés)
 - Access https://www.accessnow.org/ (En Inglés)
 - CPJ https://www.cpj.org/ (En Inglés)
-- RSF http://es.rsf.org/ 
+- RSF http://es.rsf.org/
 
 ## Guías de Seguridad Digital
 
@@ -37,8 +37,8 @@ parent: /es/
 ## Referencias relacionadas a emergencias no digitales
 
 - Front Line Defenders: proveen apoyo a defensores de Derechos Humanos que enfrenten una amergencia http://www.frontlinedefenders.org/es/emergency
-- S.A.F.E Initiative: Entrenamientos en seguridad que combinan y abordan la seguridad a través de la identidad digital, conciencia física y atención psicosocial a practicantes del periodismo en riesgo. Una iniciativa de IREX. http://www.irex.org/project/safe-securing-access-free-expression (En Inglés) 
+- S.A.F.E Initiative: Entrenamientos en seguridad que combinan y abordan la seguridad a través de la identidad digital, conciencia física y atención psicosocial a practicantes del periodismo en riesgo. Una iniciativa de IREX. http://www.irex.org/project/safe-securing-access-free-expression (En Inglés)
 -  Media Legal Defence Initiative: apoyo a periodistas, blogueros y medios indeendientes bajo amenazas legales http://mediadefence.org/get-help/spanish
 - CPJ: Provee asistencia directa a periodistas en riesgo y sus familias http://cpj.org/campaigns/assistance/ (En Inglés)
 - CPJ: guía de seguridad para periodistas https://www.cpj.org/reports/2012/04/journalist-security-guide.php (En Inglés)
-    
+

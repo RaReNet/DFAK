@@ -4,7 +4,7 @@ title: "Mitigación de ataques DDoS"
 author: RaReNet
 summary: "Una amenaza enfrentada por muchos periodistas independientes, sitios de noticias y blogueros es tener sus voces calladas debido a que su página web está caida o modificada. En muchos casos, esto puede ser un problema cándido y frustrante, pero en casiones, puede ser debido a un ataque de "denegación de servicio" o una toma de la página web. Esta sección del Digital Fist Aid Kit (Kit de Primeros Auxilios Digitales) te mostrará algunos pasos básicos para diagnosticar probelmas potenciales."
 date: 2015-08
-permalink: /es/MitigacionDDoS/
+permalink: /es/DDoSMitigation/
 parent: /es/
 ---
 
@@ -31,27 +31,27 @@ Es una buena práctica **contactar a tu webmaster y a la empresa que aloja el si
 
 Pueden haber diferentes razones por las cuales tu sitio web está caído. Pueden ir desde la red hasta leyes, alojamiento, bloqueos, software, toma de página o problemas de rendimiento. La sección a continuación explica qué es cada una y cómo diagnosticar el problema que estás enfrentando.
 
-- **¿Tu servidor web está funcionando pero tu página no está disponible?** 
-    1. Chequea [esta página](http://www.isup.me/) 
-        - ¿Tu página está al aire, pero no la puedes ver? 
+- **¿Tu servidor web está funcionando pero tu página no está disponible?**
+    1. Chequea [esta página](http://www.isup.me/)
+        - ¿Tu página está al aire, pero no la puedes ver?
             - Este es un **problema de red**. Tu propia conexión a internet puede estar teniendo problemas o estra siendo bloqueado el acceso a tu página.
-            - Esto también puede indicar que tu cuenta ha sido deshabilitada: **Are you seeing a message from your web hosting provider?** 
+            - Esto también puede indicar que tu cuenta ha sido deshabilitada: **Are you seeing a message from your web hosting provider?**
                 - Tu cuenta pudo haber sido deshabilitada por razones de pago, legales, de derechos de autor o alguna otra.
                 - Esto es un **problema de políticas**. Primero, asegúrate de que tu información de facturación esté al día y que no hayan saldos pendientes en tu servicio de alojamiento y/o nombre de dominio. Si hay mensajes relacionados a problemas legales, [la referencia proporcionada](https://www.eff.org/issues/bloggers/legal/liability/IP) por la EFF -En Inglés-, aunque está basada en las leyes estadounidenses, es un buén lugar para aprender más.
-        - **¿Tu página web no esta cargando en absoluto?** Tu compañia de hosting puede estar teniendo problemas, en ese caso estas en presencia de un **problema de alojamiento**. 
-            - ¿Puedes visitar el sitio web de la compañia de alojamiento web? Nota que esta *no* es la sección de administrador de tu propio sitio web, sino el de la compañía u organización que aloja tu página. Busca por un blog de 'status' (p.e. status.dreamhost.com): busca también en twitter.com para encontrar a otros usuarios discutiendo la posible falla del proveedor.            
+        - **¿Tu página web no esta cargando en absoluto?** Tu compañia de hosting puede estar teniendo problemas, en ese caso estas en presencia de un **problema de alojamiento**.
+            - ¿Puedes visitar el sitio web de la compañia de alojamiento web? Nota que esta *no* es la sección de administrador de tu propio sitio web, sino el de la compañía u organización que aloja tu página. Busca por un blog de 'status' (p.e. status.dreamhost.com): busca también en twitter.com para encontrar a otros usuarios discutiendo la posible falla del proveedor.
                 - un búsqueda simple como '(nombre de la compañía) down' puede revelar si otros clientes están teniendo el mismo problema.
-    2. **¿Puedes visitar otros sitios web con contenido similar al tuyo?** 
-        - Intenta visitar websites con contenidos similares a los tuyos o que cubran los mismos temas. También intenta acceder a tu sitio web usando [Tor](https://www.torproject.org/projects/gettor.html) (En Inglés) o [Psiphon](https://psiphon.ca/es/index.html). Si esto funciona, estás experimentando **problemas de bloqueo** - tu sitio web está disponible en otras partes del mundo, sin embargo está censurado en tu propio país.        
-    3. **¿Estás viendo mensajes de error?** 
-        - Esto puede ser un **problema de software**. Debes pensar en cualquier cambio reciente que tu o tu equipo hayan hecho en el sitio web y contactar al webmaster. 
-            - Una captura de pantalla, el link de la página qu está teniendo problemas con cualquier mensaje de error que veas ayudará al webmaster a entender qué pudo haber causado el problema. 
+    2. **¿Puedes visitar otros sitios web con contenido similar al tuyo?**
+        - Intenta visitar websites con contenidos similares a los tuyos o que cubran los mismos temas. También intenta acceder a tu sitio web usando [Tor](https://www.torproject.org/projects/gettor.html) (En Inglés) o [Psiphon](https://psiphon.ca/es/index.html). Si esto funciona, estás experimentando **problemas de bloqueo** - tu sitio web está disponible en otras partes del mundo, sin embargo está censurado en tu propio país.
+    3. **¿Estás viendo mensajes de error?**
+        - Esto puede ser un **problema de software**. Debes pensar en cualquier cambio reciente que tu o tu equipo hayan hecho en el sitio web y contactar al webmaster.
+            - Una captura de pantalla, el link de la página qu está teniendo problemas con cualquier mensaje de error que veas ayudará al webmaster a entender qué pudo haber causado el problema.
             - También puedes buscar los mensajes de error en internet para ver si pueden ser arreglados con facilidad.
-    4. **¿Estás viendo un sitio web diferente al tuyo? ¿Recibes alguna advertencia de tu explorador acerca de malware en tu propio sitio web?** 
+    4. **¿Estás viendo un sitio web diferente al tuyo? ¿Recibes alguna advertencia de tu explorador acerca de malware en tu propio sitio web?**
         - Esto puede ser debido a un **problema de modificación**. Echa un vistazo abajo para próximos pasos; necesitarás trabajar en conjunto con tu proveedor de alojamiento web y revisar la sección de Hackeo de Cuentas.
-    5. **¿Tu página está cargando de forma intermitente o inusualmente lenta?** 
+    5. **¿Tu página está cargando de forma intermitente o inusualmente lenta?**
         - Tu sitio web puede estar saturado por el número y velocidad de las solicitudes de páginas que está recibiendo - esto es un **problema de rendimiento**. Esto puede ser 'bueno' debido a que el sitio se ha vuelto más popular y simplemente necesita algunas mejoras para responder a más lectores.
-            - chequea tu página de métricas para analizar los patrones de crecimiento. 
+            - chequea tu página de métricas para analizar los patrones de crecimiento.
             - Contacta a tu webmaster o proveedor de aloamiento por asistencia. Varias plataformas de bloging y manejadores de contenidos o CMS (Joomla, Wordpress y Drupal entre otros) tienen plugins para mejorar el cache local de las páginas web e integrar CDNs, los cuales pueden mejorar dramáticamente el rendimiento y la capacidad de adaptación. ALgunas de las soluciones a continuación también pueden ayudar con los problemas de rendimiento.
 
 ## Primeros pasos para mitifagar el problema:

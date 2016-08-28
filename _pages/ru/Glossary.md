@@ -4,7 +4,7 @@ title: "Словарь"
 author: RaReNet
 summary: "Словарь"
 date: 2015-08
-permalink: /ru/Словарь/
+permalink: /ru/Glossary/
 parent: /ru/
 ---
 

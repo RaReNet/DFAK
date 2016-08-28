@@ -4,7 +4,7 @@ title: "Полезная информация"
 author: RaReNet
 summary: "Полезная информация"
 date: 2015-08
-permalink: /ru/Полезнаяинформация/
+permalink: /ru/Resources/
 parent: /ru/
 ---
 
