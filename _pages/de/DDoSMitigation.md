@@ -2,6 +2,7 @@
 layout: page
 title: "DDoS Eindämmung"
 author: RaReNet JC, EG, DV, TL, others
+language: de
 summary: ""
 date: 2015-08
 permalink: /de/DDoSMitigation/

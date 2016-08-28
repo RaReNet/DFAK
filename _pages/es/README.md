@@ -2,6 +2,7 @@
 layout: page
 title: "Introducción"
 author: RaReNet
+language: es
 summary: "Introducción"
 date: 2015-08
 permalink: /es/

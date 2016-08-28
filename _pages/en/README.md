@@ -2,6 +2,7 @@
 layout: page
 title: "Introduction"
 author: RaReNet
+language: en
 summary: "The Digital First Aid Kit aims to provide preliminary support for people facing the most common types of digital threats. The Kit offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves, as well as providing guidelines for digital first responders to assist a person under threat."
 date: 2015-08
 permalink: /en/

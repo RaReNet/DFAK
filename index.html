@@ -8,7 +8,8 @@ layout: default
   <h1 class="page-heading">DFAK Content</h1>
 <p><strong>BETA: this lists every page in _pages without any order!</strong></p>
   <ul class="post-list">
-    {% for page in site.pages %}
+    {% assign sorted_pages = site.pages | sort: "language" %}
+    {% for page in sorted_pages %}
       <li>
         <h2>
           <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

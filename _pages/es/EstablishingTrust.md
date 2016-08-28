@@ -2,6 +2,7 @@
 layout: page
 title: "Construyendo Confianza"
 author: RaReNet
+language: es
 summary: "Anteriormente, mencionamos algunas formas básicas de comenzar a establecer confianzae entre alguien que busca ayuda y aquel que pueda brindársela. Esta sección busca colocar una capa técnica de confianza por encima de lo ya comentado, así como entender las herramientas que te pueden ayudar a mantener una conversación segura sólo con la persona con la que piensas que estás conversando. Es importante notar que a pesar de que esta sección tiene un nivel técnico importante, te pedimos que hagas tu mayor esfuerzo - ¡Es mejor usar herramientas de cifrado que no usarlas!"
 date: 2015-08
 permalink: /es/EstablishingTrust/

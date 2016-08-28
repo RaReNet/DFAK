@@ -2,6 +2,7 @@
 layout: page
 title: "Glosario"
 author: RaReNet
+language: es
 summary: "Glosario"
 date: 2015-08
 permalink: /es/Glossary/

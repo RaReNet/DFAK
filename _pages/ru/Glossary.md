@@ -2,6 +2,7 @@
 layout: page
 title: "Словарь"
 author: RaReNet
+language: ru
 summary: "Словарь"
 date: 2015-08
 permalink: /ru/Glossary/

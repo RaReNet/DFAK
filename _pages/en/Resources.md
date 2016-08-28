@@ -2,6 +2,7 @@
 layout: page
 title: "Resources"
 author: RaReNet
+language: en
 summary: "Resources"
 date: 2015-08
 permalink: /en/Resources/

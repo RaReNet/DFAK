@@ -2,6 +2,7 @@
 layout: page
 title: "Полезная информация"
 author: RaReNet
+language: ru
 summary: "Полезная информация"
 date: 2015-08
 permalink: /ru/Resources/

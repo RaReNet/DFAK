@@ -2,6 +2,7 @@
 layout: page
 title: "Secure Communication"
 author: RaReNet
+language: en
 summary: "This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. As a general rule, it is important to understand that most 'normal' communications tools are not very secure against eavesdropping. Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment."
 date: 2015-08
 permalink: /en/SecureCommunication/

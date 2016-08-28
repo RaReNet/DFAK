@@ -2,6 +2,7 @@
 layout: page
 title: "Establishing Trust"
 author: RaReNet
+language: en
 summary: "Above, we mention some basic ways to begin to establish trust between someone seeking help and someone helping out. This section addresses how to add a technical layer of trust onto that, and understand the tools that help you maintain a secure conversation with only the person you think you're conversing with."
 date: 2015-08
 permalink: /en/EstablishingTrust/

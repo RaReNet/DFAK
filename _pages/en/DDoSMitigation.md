@@ -2,6 +2,7 @@
 layout: page
 title: "DDoS Mitigation"
 author: RaReNet JC, EG, DV, TL, others
+language: en
 summary: "A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced. In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a 'denial of service' attack or a website takeover. This section of the Digital First Aid Kit will walk you through some basic steps to diagnose potential problems. If your site is under a denial of service attack, some immediate options for next steps are suggested."
 date: 2015-08
 permalink: /en/DDoSMitigation/
@@ -32,27 +33,27 @@ It is good practice to **contact your webmaster and the site host** after invest
 
 There can be different reasons why your website is down. This can range from network to policy, hosting, blocking, software, defacement and performance problems. The section below explains what each of these problems is and how to diagnose which problem you are facing.
 
-- **Is your web host working, but your website is unavailable?** 
-    1. Check [on this website](http://isitdownorjust.me) 
-        - Your site is up, but you can’t see it? 
-            - This is a **network problem**. Your own internet connection could be having problems or be blocking your access to your site. 
-            - This could also indicate that your account has been disabled: **Are you seeing a message from your web hosting provider?** 
-                - You could have been taken offline for billing, legal, copyright or other reasons. 
+- **Is your web host working, but your website is unavailable?**
+    1. Check [on this website](http://isitdownorjust.me)
+        - Your site is up, but you can’t see it?
+            - This is a **network problem**. Your own internet connection could be having problems or be blocking your access to your site.
+            - This could also indicate that your account has been disabled: **Are you seeing a message from your web hosting provider?**
+                - You could have been taken offline for billing, legal, copyright or other reasons.
                 - This is a **policy problem**. First, make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name. If the message is due to a legal issue, [the resources provided](https://www.eff.org/issues/bloggers/legal/liability/IP) by EFF, while focused on US copyright laws, are a good place to learn more.
-        - **Is your site not loading at all?** Your hosting company may be having problems, in which case you may be facing a **hosting problem**. 
-            - Can you visit the website of your hosting company? Note that this is *not* the admin section of your own site, but that of the company or organization that hosts your site. Look or search for a 'status' blog (e.g. status.dreamhost.com); also search on twitter.com for other users discussing downtime at the host 
+        - **Is your site not loading at all?** Your hosting company may be having problems, in which case you may be facing a **hosting problem**.
+            - Can you visit the website of your hosting company? Note that this is *not* the admin section of your own site, but that of the company or organization that hosts your site. Look or search for a 'status' blog (e.g. status.dreamhost.com); also search on twitter.com for other users discussing downtime at the host
                 - a simple search like '(company name) down' can often reveal whether others are having the same problem.
-    2. **Can you visit other sites with similar content to your site?** 
+    2. **Can you visit other sites with similar content to your site?**
         - Try visiting websites related to yours or covering similar issues. Also try using [Tor](https://www.torproject.org/projects/gettor.html) or [Psiphon](https://psiphon.ca/products.php) to access your site. If this helps, you have a **blocking problem** - you are still online for other parts of the world, but are being censored in your own country.
-    3. **Are you seeing error messages?** 
-        - This could be a **software problem**. You should reflect on any recent changes you or your team may have made and contact your webmaster. 
-            - Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem. 
+    3. **Are you seeing error messages?**
+        - This could be a **software problem**. You should reflect on any recent changes you or your team may have made and contact your webmaster.
+            - Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
             - You might also copy the error messages into a search to see if they are easily fixed.
-    4. **Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site?** 
+    4. **Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site?**
         - This could be a **defacement problem**. See below for next steps; you will need to work with your web hosting provider and review the Account Hijacking section.
-    5. **Is your site loading intermittently or unusually slowly?** 
-        - Your site may be overwhelmed by the number and speed of requests for pages it is receiving - this is a **performance problem**. This could be 'good' insofar as your site has become more popular and it simply needs some improvements to respond to more readers. 
-            - check your site analytics for a long-term pattern in growth. 
+    5. **Is your site loading intermittently or unusually slowly?**
+        - Your site may be overwhelmed by the number and speed of requests for pages it is receiving - this is a **performance problem**. This could be 'good' insofar as your site has become more popular and it simply needs some improvements to respond to more readers.
+            - check your site analytics for a long-term pattern in growth.
             - Contact your webmaster or hosting provider for guidance. Many popular blogging and CMS platforms (Joomla, Wordpress, Drupal and others) have plugins to help cache your website locally and integrate CDNs, which can dramatically improve site performance and resilience. Many of the solutions below can also help performance problems.
 
 ## First steps to mitigate the problem:

@@ -2,6 +2,7 @@
 layout: page
 title: "Glossary"
 author: RaReNet JC, EG, DV, TL, others
+language: en
 summary: "Glossary"
 date: 2015-08
 permalink: /en/Glossary/
