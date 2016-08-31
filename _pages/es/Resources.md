@@ -5,7 +5,8 @@ author: RaReNet
 language: es
 summary: "Referencias Útiles"
 date: 2015-08
-permalink: /es/Resources/
+redirect_from: /es/Resources/
+permalink: /es/Referencias/
 parent: /es/
 ---
 

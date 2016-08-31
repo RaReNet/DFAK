@@ -3,14 +3,18 @@ title: Digital First Aid Kit
 email: rarenet@rarenet.org
 description: > # this means to ignore newlines until "baseurl:"
   The Digital First Aid Kit aims to provide preliminary support for people facing the most common types of digital threats. The Kit offers a set of self-diagnostic tools for citizen, human rights defenders, bloggers, activists and journalists fac ing attacks themselves, as well as providing guidelines for digital first responders to assist a person under threat.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://digitalfirstaid.org" # the base hostname & protocol for your site
-twitter_username: ""
+baseurl: /DFAK # Remove or edit when hosting outside of GH-pages; visit this subdir if running locally
+# twitter_username: ""
 github_username:  RaReNet
 
 # The all languages used
 languages: ['en', 'fr', 'es', 'ru', 'de']
+# url: "https://digitalfirstaid.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
 include: ['_pages']
+
+
+gems:
+  - jekyll-redirect-from

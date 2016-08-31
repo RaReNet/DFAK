@@ -3,10 +3,12 @@ layout: page
 title: "Sichere Kommunikation"
 author: RaReNet JC, EG, DV, TL, others
 language: de
-summary: ""
+author: RaReNet
+summary: "In diesem Abschnitt finden Sie einen Leitfaden zu den verschiedenen Wegen, eine sichere Kommunikation aufzubauen, um nach Hilfe zu suchen, wenn Sie mit einem potenziellen digitalen Angriff konfrontiert werden. Generell ist es wichtig, sich zu vergegenwärtigen, dass die meisten 'normalen' Kommunikationsmittel gegen Lauschangriffe nicht sehr sicher sind. Kommunikation über mobile und Festnetz-Telefonverbindungen ist nicht verschlüsselt und kann von Regierungen, Strafverfolgungsbehörden oder anderen Parteien mit der nötigen technischen Ausrüstung abgehört werden: Unverschlüsselte Kommunikation abzusenden, ist wie eine Postkarte zu verschicken: Jeder, der Zugang zur Postkarte hat, kann die Mitteilung lesen. Verschlüsselte Kommunikation abzusenden, ist wie die Postkarte in einen Safe zu legen und dann den Safe zu verschicken, wobei nur Sie und diejenigen Menschen, denen Sie trauen, die Kombination kennen und also den Safe öffnen und die Mitteilung lesen können."
 date: 2015-08
-permalink: /de/SecureCommunication/
-parent: Home
+redirect_from: /de/SecureCommunication
+permalink: /de/SichereKommunikation/
+parent: /de/
 ---
 
 

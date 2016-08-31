@@ -5,7 +5,8 @@ author: RaReNet JC, EG, DV, TL, others
 language: de
 summary: ""
 date: 2015-08
-permalink: /de/DDoSMitigation/
+permalink: /de/DDoSEindammung/
+redirect_from: /de/DDoSMitigation/
 parent: Home
 ---
 

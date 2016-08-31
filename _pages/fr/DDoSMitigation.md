@@ -1,5 +1,15 @@
+---
+layout: page
+title: "Réponse aux attaques par déni de service distribué (DDoS)"
+author: RaReNet
+summary: " Cette section du Kit de premier secours numériques vous indique des mesures de base pour diagnostiquer les éventuels problèmes. Si votre site subit une attaque par déni de service, des possibilités d'action immédiates sont suggérées."
+date: 2015-08
+redirect_from: /fr/DDoSMitigation/
+permalink: /fr/AttaquesDDoS/
+parent: /fr/
+---
 
-2. Réponse aux attaques par déni de service distribué (DDoS)
+# Réponse aux attaques par déni de service distribué (DDoS)
 
 De nombreux journalistes, sites d'information et blogueurs indépendants sont confrontés à la menace de se voir baillonnés parce que leur site internet est désactivé ou vandalisé. Dans bien des cas, il peut s'agir d'un problème agaçant mais innocent mais parfois, cela peut être dû à une attaque «&nbsp;par déni de service&nbsp;» ou un piratage de site. Cette section du Kit de premier secours numériques vous indique des mesures de base pour diagnostiquer les éventuels problèmes. Si votre site subit une attaque par déni de service, des possibilités d'action immédiates sont suggérées.
 

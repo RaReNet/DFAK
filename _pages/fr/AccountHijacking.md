@@ -1,10 +1,16 @@
-1. Piratage de compte
+---
+layout: page
+title: "Piratage de compte"
+author: RaReNet
+summary: "Vous rencontrez des difficultés à accéder à vos e-mails, vos réseaux sociaux ou votre compte internet&nbsp;? Est-ce qu'un de vos comptes présente une activité que vous ne reconnaissez pas&nbsp;? De nombreuses mesures peuvent vous permettre de répondre à ce problème."
+date: 2015-08
+redirect_from: /fr/AccountHijacking/
+permalink: /fr/Piratagedecompte/
+parent: /fr/
+---
 
-Kit de premiers secours numériques
 
-Le Kit de premiers secours numériques a pour but d'apporter une assistance préliminaire aux personnes confrontées aux types les plus fréquents de menaces informatiques. Il propose un ensemble d'outils d'autodiagnostic aux défenseurs des droits civiques et humains, blogueurs, activistes et journalistes confrontés eux-mêmes à des attaques ainsi que des instructions destinées aux forces d'intervention numérique qui portent assistance à une personne menacée.
-
-Piratage de compte
+# Piratage de compte
 
 Vous rencontrez des difficultés à accéder à vos e-mails, vos réseaux sociaux ou votre compte internet&nbsp;? Est-ce qu'un de vos comptes présente une activité que vous ne reconnaissez pas&nbsp;? De nombreuses mesures peuvent vous permettre de répondre à ce problème.
 

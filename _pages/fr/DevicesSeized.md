@@ -1,8 +1,18 @@
-3. Appareils perdus, volés, confisqués&nbsp;?
+---
+layout: page
+title: "Appareils perdus, volés, confisqués"
+author: RaReNet
+summary: "Avez-vous perdu votre appareil? A-t-il été volé ou saisi&nbsp;? Dans toutes ces situations, il est très important de se faire une idée claire de ce qui s'est passé, du type de données et de comptes susceptibles d'être vulnérables et des mesures à prendre pour éviter la fuite ou le détournement de vos informations, contacts et comptes."
+date: 2015-08
+redirect_from: /fr/DevicesSeized/
+permalink: /fr/AppareilsConfisques/
+parent: /fr/
+---
 
-Appareils confisqués, perdus, volés&nbsp;?
+# Appareils perdus, volés, confisqués?
 
-Avez-vous perdu votre appareil&nbsp;? A-t-il été volé ou saisi&nbsp;? Dans toutes ces situations, il est très important de se faire une idée claire de ce qui s'est passé, du type de données et de comptes susceptibles d'être vulnérables et des mesures à prendre pour éviter la fuite ou le détournement de vos informations, contacts et comptes.
+
+Avez-vous perdu votre appareil? A-t-il été volé ou saisi&nbsp;? Dans toutes ces situations, il est très important de se faire une idée claire de ce qui s'est passé, du type de données et de comptes susceptibles d'être vulnérables et des mesures à prendre pour éviter la fuite ou le détournement de vos informations, contacts et comptes.
 
 Commencez par vous poser quelques questions simples&nbsp;:
 
