@@ -3,7 +3,7 @@ layout: page
 title: "DDoS Mitigation"
 author: RaReNet JC, EG, DV, TL, others
 language: en
-summary: "A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced. In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a 'denial of service' attack or a website takeover. This section of the Digital First Aid Kit will walk you through some basic steps to diagnose potential problems. If your site is under a denial of service attack, some immediate options for next steps are suggested."
+summary: "A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced. In many cases, this may be an innocent and frustrating problem, but on occasion, it may be due to a 'denial of service' attack or a website takeover. This section of the Digital First Aid Kit will walk you through some basic steps to diagnose potential problems. If your site is under a denial of service attack, some immediate options for next steps are suggested."
 date: 2015-08
 permalink: /en/DDoSMitigation/
 parent: /en/
@@ -11,9 +11,9 @@ parent: /en/
 
 # DDoS Mitigation
 
-A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced. In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a 'denial of service' attack or a website takeover. This section of the Digital First Aid Kit will walk you through some basic steps to diagnose potential problems. If your site is under a denial of service attack, some immediate options for next steps are suggested.
+A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced. In many cases, this may be an innocent and frustrating problem, but on occasion, it may be due to a 'denial of service' attack or a website takeover. This section of the Digital First Aid Kit will walk you through some basic steps to diagnose potential problems. If your site is under a denial of service attack, some immediate options for next steps are suggested.
 
-In general, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site. Sometimes, other things like legal challenges can cause a host to turn a site off as well. Finding the problem and possible solutions to your website's problem can be cumbersome if you do not have hosting expertise. Therefore, when possible, the best first step is to contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site, or if none of these are available, [seek help from an organization you trust](SecureCommunication.md#seeking-and-providing-remote-help) ).
+In general, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site. Sometimes, other things like legal challenges can cause a hoster to turn a site off as well. Finding the problem and possible solutions to your website's problem can be cumbersome if you do not have hosting expertise. Therefore, when possible, the best first step is to contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site, or if none of these are available, [seek help from an organization you trust](SecureCommunication.md#seeking-and-providing-remote-help) ).
 
 It is good practice to **contact your webmaster and the site host** after investigating these common challenges below! The problem you face may not have been reported on their status page, may be a temporary problem, or the site host may not yet be aware of the problem. A good relationship with your service providers goes a long way - be clear and polite and share the results of your investigation using these questions to help them quickly troubleshoot the problem.
 
@@ -77,7 +77,7 @@ If the above diagnoses do not help (or you are experiencing a severe **performan
 - Step 3: Make a backup of the defaced site that can later be used for investigation of the defacement.
 - Step 4: Temporarily turn off your website - use a simple landing page or 'parked' page.
 - Step 5: Determine how your site was hacked. Your hosting provider may be able to help. Common problems are older parts of your site with custom scripts/tools running on them, out of date content management systems, and custom programming with security flaws.
-- Step 6: Restore your original from backups. If neither you, nor your hosting company have backups, you may have to re-build your website from scratch! Also note that if your only backups are at your hosting provider, an attacker may be able to delete those when they take control of your site!
+- Step 6: Restore your original site from backups. If neither you, nor your hosting company have backups, you may have to re-build your website from scratch! Also note that if your only backups are at your hosting provider, an attacker may be able to delete those when they take control of your site!
 - Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
@@ -172,4 +172,4 @@ If you have been the victim of a **'Denial of Service'** or **Defacement attack*
 - [Keep your site alive](https://www.eff.org/keeping-your-site-alive)
 - [Security in a Box](https://securityinabox.org/en/chapter_7_2)
 - [Threat modeling, Surveillance Self Defense Guide](https://ssd.eff.org/risk/threats)
-
+- [DDoS proactive and reactive measures](https://www.cert.be/files/DDoS-proactive-reactive.pdf)

@@ -111,3 +111,4 @@ More information on the various technical aspects of trust can be found in the E
 
 * Security in a Box; selecting and maintaining secure passwords https://securityinabox.org/en/chapter_3_1
 * EFF's guidelines on how to create a password [forthcoming]
+* Secure Communication for activists and privacy conscious users http://www.slideshare.net/cudeso/secure-communication-57973239
