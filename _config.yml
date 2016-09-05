@@ -8,7 +8,7 @@ baseurl: /DFAK # Remove or edit when hosting outside of GH-pages; visit this sub
 github_username:  RaReNet
 
 # The all languages used
-languages: ['en', 'fr', 'es', 'ru', 'de']
+languages: ['en', 'fr', 'es', 'ru', 'de', 'nl']
 # url: "https://digitalfirstaid.org" # the base hostname & protocol for your site
 
 # Build settings
