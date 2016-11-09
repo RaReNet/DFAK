@@ -5,7 +5,8 @@ author: RaReNet
 language: ru
 summary: "Словарь"
 date: 2015-08
-permalink: /ru/Glossary/
+redirect_from: /ru/Glossary/
+permalink: /ru/Словарь/
 parent: /ru/
 ---
 
