@@ -5,7 +5,8 @@ author: RaReNet
 language: ru
 summary: "Полезная информация"
 date: 2015-08
-permalink: /ru/Resources/
+redirect_from: /ru/Resources/
+permalink: /ru/Полезнаяинформация/
 parent: /ru/
 ---
 
