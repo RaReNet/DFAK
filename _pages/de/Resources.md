@@ -1,17 +1,18 @@
 ---
 layout: page
 title: "Hilfreiche Referenz"
-author: RaReNet
+author: deralexxx
 summary: "Hilfreiche Referenz"
 date: 2015-08
-permalink: /en/Resources/
-parent: /en/Referenz
+permalink: /de/Resources/
+redirect_from: /de/Referenzen/
+parent: /de/
 ---
 
 
-# Hilfreiche Referenz
+# Hilfreiche Referenzen
 
-## Resources related to digital emergencies
+## Resources im Bezug auf digitale Notfälle
 
 - EFF https://www.eff.org/
 - Digital Defenders Partnership www.digitaldefenders.org
@@ -22,7 +23,7 @@ parent: /en/Referenz
 - CPJ https://www.cpj.org/
 - RSF http://en.rsf.org/
 
-## Digital security guides
+## Generelle Anleitungen zum Thema Cyber
 
 - Security in a Box https://securityinabox.org
 - Surveillance Self-Defense (Revision forthcoming)
@@ -30,13 +31,13 @@ parent: /en/Referenz
 - Communications Security: https://help.riseup.net/en/security
 - Short 'How To' Mobile Security Guide https://guardianproject.info/howto/
 
-## Guides on Secure hosting and DDoS mitigation
+## Anleitungen zum Thema sicheres Hosten und DDOS-Mitigierung
 
 - My Website is Down; Documentation and guides for withstanding DDoS Attacks https://github.com/OpenInternet/MyWebsiteIsDown
 - If you are currently researching how to build your website to be resistant to attacks that might take it offline, you should first read through this guide by the Electronic Frontier Foundation: https://www.eff.org/keeping-your-site-alive
 - AccessNow provides a much more in-depth guide with many more resources and mitigation techniques in English, Farsi, Arabic and Russian. Visit https://www.accessnow.org/policy/docs and click on DoS on the right side, or download a copy from https://s3.amazonaws.com/access.3cdn.net/3fd9faf32feb878cf7_krm6iy7bo.pdf
 
-## Resources related to Non-digital emergencies
+## Resourcen im Bezug mit nicht digitalen Notfällen
 
 - Front Line Defenders: provides support to Human Rights Defenders who are faced with an emergency http://www.frontlinedefenders.org/emergency
 - S.A.F.E Initiative: Integrated safety trainings that combine and address safety through the lens of digital identity, physical awareness and psychosocial care to at-risk media practitioners. An IREX initiative. http://www.irex.org/project/safe-securing-access-free-expression
