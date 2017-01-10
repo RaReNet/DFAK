@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Einführung"
-author: RaReNet
+author: deralexxx
 summary: "The Digital First Aid Kit aims to provide preliminary support for people facing the most common types of digital threats. The Kit offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves, as well as providing guidelines for digital first responders to assist a person under threat."
 date: 2017-01
 permalink: /de/
@@ -38,8 +38,8 @@ In addition, the Kit serves as a first responder checklist for individuals who a
 The Digital First Aid Kit is a collaborative effort of EFF, Global Voices, Hivos & the Digital Defenders Partnership, Front Line Defenders, Internews, Freedom House, Access, Virtual Road, CIRCL, IWPR, Open Technology Fund and individual security experts who are working in the field of digital security and rapid response. It is a work in progress and if there are things that need to be added, comments or questions regarding any of the sections please open a bug or do a pull request.
 -->
 
-* [Sichere Kommunikation](SichereKommunikation) (Read this section first on how to communicate securely with others, and *where you can get help*)
-* [Konto-Diebstahl](Konto-Diebstahl) (Are you locked out of your account? Seeing unusual activity?)
+* [Sichere Kommunikation](SecureCommunication) (Read this section first on how to communicate securely with others, and *where you can get help*)
+* [Konto-Diebstahl](AccountHijacking) (Are you locked out of your account? Seeing unusual activity?)
 * [Gerät verloren? Gestohlen? Beschlagnahmt?](Geratverloren) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
 * [Schadprogramme](Schadprogramme) (Is your computer acting suspicious?)
 * [DDoS Eindämmung](DDoSEindammung) (Is your site down? Has it been defaced?)
