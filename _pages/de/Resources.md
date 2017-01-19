@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hilfreiche Referenz"
-author: deralexxx
+author: RaReNet
 summary: "Hilfreiche Referenz"
 date: 2015-08
 permalink: /de/Resources/
