@@ -1,12 +1,20 @@
 ---
 layout: page
-title: "Secure Communication"
+title: Secure Communication
 author: RaReNet
 language: en
-summary: "This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. As a general rule, it is important to understand that most 'normal' communications tools are not very secure against eavesdropping. Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment."
+summary: >-
+  This section will provide you with guidance on ways to establish secure
+  communication when reaching out for help when confronted with a potential
+  digital attack. As a general rule, it is important to understand that most
+  'normal' communications tools are not very secure against eavesdropping.
+  Mobile and landline phone communication is not encrypted and can be listened
+  to by governments, law enforcement agencies, or other parties with the
+  necessary technical equipment.
 date: 2015-08
 permalink: /en/SecureCommunication/
 parent: /en/
+published: true
 ---
 
 
@@ -79,7 +87,7 @@ The following important recommendations can help you to set up new channels of s
 * An alternative to Google is [Riseup](https://help.riseup.net/), a volunteer group working to create democratic alternatives and practice self-determination by controlling our own secure means of communications. They offer services such as Gmal and Gchat. It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
 * For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
  * Pidgin (PC) and Adium (Mac) allow you to chat securely, with end-to-end encryption using OTR. Here is a [guide to installing Pidgin with OTR](https://securityinabox.org/en/pidgin_main).
- * Jitsi can be used both for text chat as well as encrypted voice and video. Use [this guide to set it up](https://securityinabox.org/en/jitsi). You can [create an account for a secure voice/video call for free](https://ostel.co/).
+ * Jitsi Meet can be used both for text chat as well as encrypted voice and video. Going to https://meet.jit.si allows you to setup a secure room for voice, video and chat - which you can then share with other participants. It is hosted in your browser, so requires no downloading.
  * PGP (PC and Mac) allows you to set up end-to-end encryption for your email. Here is a [guide for using PGP with Thunderbird on your computer](https://securityinabox.org/en/thunderbird_main).
  * [Tor Browser Bundle](https://www.torproject.org/download/download-easy.html.en) can be used to increase your security and privacy while visiting websites by bouncing your communications around a distributed network of relays run by volunteers all around the world.
  * A number of secure tools come pre-installed in TAILS.
@@ -93,13 +101,13 @@ If you only have a smartphone, the following tools can protect your communicatio
 
 * [ChatSecure by The Guardian Project](https://guardianproject.info/apps/chatsecure/) integrates with desktop chat Clients like Jitsi and Pidgin (using Gchat or Jabber/XMPP) and adds end-to-end encryption and the ability to send encrypted files, photos and audio.
 * With [csipsimple](https://play.google.com/store/apps/details?id=com.csipsimple) you can also make secure calls (such as from [Ostel](https://ostel.co/)).
-* RedPhone (for voice) and TextSecure (for SMS) by [WhisperSystems](https://whispersystems.org) are good, but both parties must be on Android (with these tools installed) in order for these tools to work.
+* Signal by [WhisperSystems](https://whispersystems.org) provides secure messaging and calls. It is open source and available on Android and iPhone.
 * These apps are in the Google Play store, the [F-Droid repository](https://f-droid.org/repository/browse/) and available directly from the links above.
 * [Orbot](https://www.torproject.org/docs/android.html.en) by The Guardian Project and the Tor Project is an application that allows mobile phone users to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. Orbot brings the features and functionality of Tor to the Android mobile operating system.
 
 ### iPhone
 
-Your iOS options are more limited, but the *ChatSecure* app on the iPhone is created in cooperation with the Android ChatSecure app and has similar features. [Onion Browser](https://mike.tig.as/onionbrowser/) offers similar features to Tor and Orbot for iOS.
+Your iOS options are more limited, but the *ChatSecure* app on the iPhone is created in cooperation with the Android ChatSecure app and has similar features. [Onion Browser](https://mike.tig.as/onionbrowser/) offers similar features to Tor and Orbot for iOS. Signal by [WhisperSystems](https://whispersystems.org) is now also available on iPhone.
 
 ## Trust
 
