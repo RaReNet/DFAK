@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Resources"
+title: Resources
 author: RaReNet
 language: en
-summary: "Resources"
+summary: Resources
 date: 2015-08
 permalink: /en/Resources/
 parent: /en/
+published: true
 ---
 
 
@@ -30,6 +31,7 @@ parent: /en/
 - Information security for journalists https://www.cpj.org/reports/2012/04/information-security.php
 - Communications Security: https://help.riseup.net/en/security
 - Short 'How To' Mobile Security Guide https://guardianproject.info/howto/
+- Umbrella App (Android) contains guides on digital and physical security https://www.secfirst.org
 
 ## Guides on Secure hosting and DDoS mitigation
 
@@ -44,3 +46,4 @@ parent: /en/
 -  Media Legal Defence Initiative: support to journalists, blogger and independent media under legal threat http://mediadefence.org/get-help
 - CPJ; provides direct assistance to journalists at risk and their families http://cpj.org/campaigns/assistance/
 - CPJ: journalists security guide https://www.cpj.org/reports/2012/04/journalist-security-guide.php
+-Security First: provides training in digital and physical security for human rights defenders, journalists and aid workers. Specialising in operational issues such as dealing with surveillance, insider threats and crisis management. https://www.secfirst.org  
