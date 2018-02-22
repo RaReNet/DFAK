@@ -20,7 +20,7 @@ published: true
 - Front Line Defenders http://www.frontlinedefenders.org
 - Internews https://www.internews.org/
 - Freedom House http://freedomhouse.org/
-- Access https://www.accessnow.org/
+- Access Now Digital Security Helpline https://www.accessnow.org/help
 - CPJ https://www.cpj.org/
 - RSF http://en.rsf.org/
 
