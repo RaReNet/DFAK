@@ -48,8 +48,8 @@ Among the organizations you may reach out to include:
 * RSF
  * URL: [http://en.rsf.org/](http://en.rsf.org/)
  * email: internet@rsf.org
-* Access
- * URL: [https://www.accessnow.org/](https://www.accessnow.org/)
+* Access Now
+ * URL: [https://www.accessnow.org/help](https://www.accessnow.org/help)
  * email: help@accessnow.org
  * PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
 * Digital Defenders Partnership
