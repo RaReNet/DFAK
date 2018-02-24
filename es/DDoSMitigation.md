@@ -1,9 +1,9 @@
 # DDoS Mitigation
 # Mitigación de ataques DDoS
 
-Una amenaza enfrentada por muchos periodistas independientes, sitios de noticias y blogueros es tener sus voces calladas debido a que su página web está caida o modificada. En muchos casos, esto puede ser un problema cándido y frustrante, pero en casiones, puede ser debido a un ataque de "denegación de servicio" o una toma de la página web. Esta sección del Digital Fist Aid Kit (Kit de Primeros Auxilios Digitales) te mostrará algunos pasos básicos para diagnosticar probelmas potenciales. Si tu sitio web está bajo un ataque de denegación de servicio, sesugieren algunas acciones inmediatas para siguientes pasos.
+Una amenaza enfrentada por muchos periodistas independientes, sitios de noticias y blogueros es tener sus voces calladas debido a que su página web está caída o modificada. En muchos casos, esto puede ser un problema inocente y frustrante, pero en casiones, puede ser debido a un ataque de "denegación de servicio" o una toma de la página web. Esta sección del Digital Fist Aid Kit (Kit de Primeros Auxilios Digitales) te mostrará algunos pasos básicos para diagnosticar probelmas potenciales. Si tu sitio web está bajo un ataque de denegación de servicio, se sugieren algunas acciones inmediatas para siguientes pasos.
 
-En general, es importante saber que pueden haber muchas razones por las cuales una página puede estar caida. Lo más común es que sea debido a errores de programación o problemas técnicos de la empresa que aloja el sitio web. A veces, otros factores como acciones legales tmbién pueden provocar que un servidor deshabilite un sitio. Encontrar el problema y las posibles soluciones puede ser complicado si no tienes experiencia en alojamiento web. Por lo tanto, siempre que sea posible el mejor primer paso es contactar a una persona de confianza que pueda ayudar con tu sitio web (tu webmaster, la persona que ayudó a configurar la página, personal interno si existe y la compañia que aloja el sitio web, o si ninguno de estos está disponible), [busca ayuda de una organización en la que confíes](SecureCommunication.md#seeking-and-providing-remote-help) )
+En general, es importante saber que pueden haber muchas razones por las cuales una página puede estar caída. Lo más común es que sea debido a errores de programación o problemas técnicos de la empresa que aloja el sitio web. A veces, otros factores como acciones legales también pueden provocar que un servidor deshabilite un sitio. Encontrar el problema y las posibles soluciones puede ser complicado si no tienes experiencia en alojamiento web. Por lo tanto, siempre que sea posible el mejor primer paso es contactar a una persona de confianza que pueda ayudar con tu sitio web (tu webmaster, la persona que ayudó a configurar la página, personal interno si existe y la compañia que aloja el sitio web, o si ninguno de estos está disponible, [busca ayuda de una organización en la que confíes](SecureCommunication.md#seeking-and-providing-remote-help) )
 
 Es una buena práctica **contactar a tu webmaster y a la empresa que aloja el sitio** ¡después de investigar lo que aparece a continuación!  El problema que enfrentas puede no estar reportado en su página de status, puede ser un problema temporal, o el proveedor puede no estar enterado todavía del problema. Una buena relación con tu proveedor de servicio llega muy lejos - se claro y educado y comparte los resultados de tu investigación usando estas preguntas para ayudarlos a rápidamente resolver el problema.
 
@@ -15,7 +15,7 @@ Es una buena práctica **contactar a tu webmaster y a la empresa que aloja el si
 - ¿Quién es tu proveedor de alojamiento web? Esta es la compañía que provee el servidor en donde tu sitio web está funcionando. Si no sabes cuál proveedor es, puedes [usar una herramienta](http://www.whoishostingthis.com/) para encontrarlo.
 - ¿Tienes un registro detallado de la cuenta de este proveedor de alojamiento web?
 - ¿En dónde adquiriste el nombre de dominio? En algunos casos esta empresa es la misma que provee el alojamiento web, sin embargo esta puede ser otra compañía.
-- ¿Tienes un registro detallado de la cuenta del proveedor de nombred de dominio? Si no, encontrarlo es el primer paso para recuperar tu sitio.
+- ¿Tienes un registro detallado de la cuenta del proveedor de nombre de dominio? Si no, encontrarlo es el primer paso para recuperar tu sitio.
 - ¿Quién mas sabe o puede tener acceso a la información de estas cuentas?
 
 ### Información de Diagnóstico
@@ -26,10 +26,10 @@ Pueden haber diferentes razones por las cuales tu sitio web está caído. Pueden
     1. Chequea [esta página](http://www.isup.me/) 
         - ¿Tu página está al aire, pero no la puedes ver? 
             - Este es un **problema de red**. Tu propia conexión a internet puede estar teniendo problemas o estra siendo bloqueado el acceso a tu página.
-            - Esto también puede indicar que tu cuenta ha sido deshabilitada: **Are you seeing a message from your web hosting provider?** 
-                - Tu cuenta pudo haber sido deshabilitada por razones de pago, legales, de derechos de autor o alguna otra.
+            - Esto también puede indicar que tu cuenta ha sido deshabilitada: Se despliega un mensaje de su proveedor de servicio web? 
+            - Tu cuenta pudo haber sido deshabilitada por razones de pago, legales, de derechos de autor o alguna otra.
                 - Esto es un **problema de políticas**. Primero, asegúrate de que tu información de facturación esté al día y que no hayan saldos pendientes en tu servicio de alojamiento y/o nombre de dominio. Si hay mensajes relacionados a problemas legales, [la referencia proporcionada](https://www.eff.org/issues/bloggers/legal/liability/IP) por la EFF -En Inglés-, aunque está basada en las leyes estadounidenses, es un buén lugar para aprender más.
-        - **¿Tu página web no esta cargando en absoluto?** Tu compañia de hosting puede estar teniendo problemas, en ese caso estas en presencia de un **problema de alojamiento**. 
+        - **¿Tu página web no esta cargando en absoluto?** Tu compañía de hosting puede estar teniendo problemas, en ese caso estas en presencia de un **problema de alojamiento**. 
             - ¿Puedes visitar el sitio web de la compañia de alojamiento web? Nota que esta *no* es la sección de administrador de tu propio sitio web, sino el de la compañía u organización que aloja tu página. Busca por un blog de 'status' (p.e. status.dreamhost.com): busca también en twitter.com para encontrar a otros usuarios discutiendo la posible falla del proveedor.            
                 - un búsqueda simple como '(nombre de la compañía) down' puede revelar si otros clientes están teniendo el mismo problema.
     2. **¿Puedes visitar otros sitios web con contenido similar al tuyo?** 
@@ -108,7 +108,7 @@ Si el diagnóstico mostrado arriba no ayuda o estás experimentando **problemas 
 - Comunicaciones seguras - deberías ser capaz de iniciar sesión de forma segura y comunicarte de forma privada con el proveedor del servicio.
 - ¿Existe alguna opción de auntenticación en dos factores, para mejorar la seguridad del acceso administrativo? Esta y otras políticas de seguridad pueden reducir las amenazas de otros tipos de ataques contra tu sitio web.
 - ¿De qué tipo de ayuda puedes tener sobre la marcha? ¿Existe un costo adicional para obtener soporte, y/o recibirás suficiente ayuda si usarás una versión gratuita?
-- ¿Puedes 'probar' tu sitio web antes de moverlo a otro lugar a través de un sitio ntermedio (staging site)?
+- ¿Puedes 'probar' tu sitio web antes de moverlo a otro lugar a través de un sitio intermedio (staging site)?
 
 ### Preguntas para servicios de alojamiento web seguros
 
